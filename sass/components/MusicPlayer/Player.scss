@@ -1,0 +1,103 @@
+@use '../../abstracts/' as *;
+@use './PlayerHeader.scss' as *;
+
+@use './DiscoverTrack.scss' as *;
+@use './TrackDetails.scss' as *;
+@use './Controls.scss' as *;
+@use './Lyrics.scss' as *;
+@use '../../utilities/keyframes.scss' as *;
+
+.music-player {
+  $header-height: var(--header-height);
+  display: none;
+  width: 100%;
+  height: 100%;
+
+  width: min(100%, 600px);
+  position: fixed;
+  inset: 0;
+  margin: 0 auto;
+  z-index: $z-index-300;
+  background: inherit;
+  transition: transform 0.8s;
+
+  &.showPlayer {
+    animation: slideup 0.5s cubic-bezier(0.22, 0.61, 0.36, 1) forwards;
+  }
+
+  &:not(.showPlayer) {
+    animation: slidedown 0.5s linear forwards;
+  }
+
+  >*:not(:first-child) {
+    padding-inline: $pad-300;
+  }
+
+  @include PlayerHeader();
+
+  >.body {
+    padding-block: $pad-300;
+    position: relative;
+    width: 100%;
+    height: 100%;
+
+    >* {
+      width: 100%;
+      height: 100%;
+      display: none;
+
+      &.active {
+        display: grid;
+        place-items: center;
+      }
+    }
+  }
+
+  .music-content {
+    gap: $pad-200;
+    width: 100%;
+    overflow: hidden auto;
+
+    &.active {
+      grid-template-rows: minmax(40vh, 60vh) auto;
+    }
+
+
+    @include Track-Details();
+    @include Controls();
+  }
+
+
+
+  overflow: hidden auto;
+  /* For Firefox */
+  scrollbar-width: none;
+  /* For Internet Explorer and Edge */
+  -ms-overflow-style: none;
+
+  &::-webkit-scrollbar {
+    display: none;
+    width: 0;
+    height: 0;
+  }
+}
+
+@keyframes slideup {
+  from {
+    transform: translateY(100%);
+  }
+
+  to {
+    transform: translateY(0%);
+  }
+}
+
+@keyframes slidedown {
+  from {
+    transform: translateY(0%);
+  }
+
+  to {
+    transform: translateY(100%);
+  }
+}

@@ -1,0 +1,33 @@
+@use '../../abstracts/' as *;
+
+.lyrics-content {
+   position: relative;
+   width: 100%;
+   height: 100%;
+   padding: $pad-500 $pad-300;
+
+   .lyrics {
+      margin-block: 1em;
+
+      p,
+      em {
+         color: var(--grey-txt-200);
+         font-weight: 800;
+         font-style: italic;
+      }
+   }
+
+   & :has(.no-lyrics) {
+      display: grid;
+      place-items: center;
+
+      h3 {
+         display: none;
+      }
+
+      p.no-lyrics {
+         width: 80%;
+         text-align: center;
+      }
+   }
+}

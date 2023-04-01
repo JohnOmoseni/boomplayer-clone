@@ -1,0 +1,54 @@
+@use '../../abstracts/' as *;
+@use '../../components/button.scss' as *;
+
+
+@mixin Artiste-cover-img {
+   .cover-details {
+      min-height: 60vh;
+      position: relative;
+      padding-block: 1em;
+      z-index: 1;
+
+      .cover-img {
+         position: absolute;
+         inset: 0;
+         width: 100%;
+         z-index: -1;
+         filter: blur(1px);
+
+         &::before {
+            content: "";
+            position: absolute;
+            background: linear-gradient(10deg, rgba(black, 0.6) 20%, transparent 80%);
+            // backdrop-filter: blur(2px);
+            // linear-gradient(to right top, rgba(blue, 0.4), rgba(red, 0.4)), ;
+            inset: 0;
+            z-index: 1;
+         }
+
+
+
+         img {
+            width: 100%;
+            object-fit: cover;
+         }
+      }
+
+      .details {
+         position: absolute;
+         bottom: calc(10vh + 1em);
+         left: 1em;
+         filter: blur(0.8px);
+
+         button {
+            @include reset-button();
+            background: linear-gradient(135deg, rgba(black, 0.5) 60%, transparent);
+            padding: $pad-300 $pad-500;
+            border-radius: $br-button;
+            letter-spacing: 1px;
+            margin-block: $pad-300;
+            font-weight: $fw-semi-bold;
+         }
+      }
+   }
+}

@@ -1,0 +1,54 @@
+@use "../abstracts/" as *;
+@use '../components/SearchBar' as *;
+
+.header {
+  @include flex-column();
+  width: 100%;
+  padding-block: $pad-500;
+  padding-inline: $pad-300;
+  background: var(--bg-fixed);
+  gap: 1.8em;
+  position: sticky;
+  top: 0;
+  z-index: $z-index-200;
+  box-shadow: $bs-400;
+
+  .tabs {
+    @include flex-row($gap: $pad-400);
+    position: relative;
+
+    .tab {
+      font-size: $fs-secondary-heading;
+      font-weight: $fw-semi-bold;
+      color: var(--grey-txt-200);
+      cursor: pointer;
+      transition: $transition;
+      text-shadow: $ts-100;
+
+      &.active-tab {
+        transform: scale(1.1);
+        color: var(--white-txt-200);
+        padding-inline: 5px;
+      }
+
+      &:not(.active-tab) {
+        margin-top: 4px;
+      }
+    }
+
+    .activeTab-indicator {
+      @include activeTab-indicator();
+      transform: translateX(50%);
+    }
+
+    .tab:nth-child(2).active-tab~.activeTab-indicator {
+      left: 50%
+    }
+
+  }
+
+  .search-box {
+    @include searchBar();
+    box-shadow: $bs-input-field;
+  }
+}

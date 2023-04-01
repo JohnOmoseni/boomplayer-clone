@@ -1,0 +1,80 @@
+@use '../../abstracts/' as *;
+@use '../../components/MusicPlayer/PlayerHeader.scss' as *;
+
+
+@mixin LibraryHeader() {
+  .heading {
+    @include flex-column();
+    gap: 0;
+    padding-block: $pad-200;
+    background: var(--bg-fixed);
+    position: sticky;
+    top: 0;
+    box-shadow: $bs-100;
+    z-index: $z-index-100;
+
+    >* {
+      width: 100%;
+    }
+
+    .top-nav {
+      @include flex-row();
+      gap: 1em;
+      position: relative;
+      padding: $pad-400 $pad-300;
+
+      .prev-page {
+        @include close-icon();
+        left: 0.5em;
+      }
+
+      .library-title {
+        letter-spacing: 0.8px;
+      }
+
+    }
+
+    @include tabs($justify: space-around);
+
+    .tabs {
+      margin-block: $pad-300 1.2em;
+      padding-inline: $pad-300 ;
+    }
+
+    .activeTab-indicator {
+      @include activeTab-indicator($width: 30px);
+      bottom: -12px;
+      left: 12%;
+      margin-left: 3px;
+    }
+
+    .tab:nth-child(2).active-tab~.activeTab-indicator {
+      left: 45%;
+    }
+
+    .tab:nth-child(3).active-tab~.activeTab-indicator {
+      left: 80%;
+    }
+
+    .play-all {
+      @include flex-row();
+      justify-content: space-between;
+      border-top: 1px solid var(--border-light);
+      padding: $pad-400 $pad-300 $pad-200;
+      margin-block-start: $pad-100;
+
+      .column {
+        @include flex-row();
+        gap: $pad-200;
+      }
+
+      h3 {
+        line-height: 1.4;
+
+        span {
+          color: var(--grey-txt-200)
+        }
+      }
+    }
+  }
+}

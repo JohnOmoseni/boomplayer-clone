@@ -1,0 +1,29 @@
+@use '../../abstracts/' as *;
+@use '../../helpers/HeaderTemplate.scss' as *;
+@use '../../helpers/List.scss' as *;
+
+.genres-list {
+   @include header-template();
+
+   @include list-container(200px);
+
+   a.genre-card {
+      width: 100%;
+      text-align: center;
+      // background: linear-gradient(340deg, rgba(white, 0.5), transparent);
+      display: grid;
+      place-items: center;
+      border-radius: $br-semi-thin;
+      box-shadow: $bs-250;
+      overflow: hidden;
+
+      h3 {
+         position: relative;
+         background: rgba(black, 0.4);
+         border-radius: $br-thin;
+         padding: 1em;
+         z-index: 1;
+      }
+
+   }
+}

@@ -1,0 +1,26 @@
+@use '../../abstracts/' as *;
+@use "../../helpers/HeaderTemplate.scss" as *;
+@use "./ArtistSongs.scss" as *;
+@use "./ArtistCover.scss" as *;
+
+
+.artiste-page {
+   // @include header-template($bg: transparent);
+   width: 100%;
+   height: 100%;
+   background: #151515;
+   overflow: hidden auto;
+   // display: grid;
+   // grid-template-rows: 50vh auto;
+
+   .tag {
+      padding: $pad-200;
+      text-shadow: $ts-300;
+      // font-family: $ff-variant;
+      letter-spacing: $ls-100;
+   }
+
+   @include Artiste-cover-img();
+   @include Artiste-songs();
+
+}

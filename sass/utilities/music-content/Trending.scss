@@ -1,0 +1,11 @@
+@use '../../abstracts/' as *;
+
+.trending-songs {
+  @include flex-column();
+  width: 100%;
+
+  .track-details {
+    @include row-layout();
+  }
+
+}

@@ -1,0 +1,147 @@
+@use './variables' as *;
+@use './colors' as *;
+@use './type' as *;
+
+@mixin flex($gap) {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: $gap;
+}
+
+@mixin flex-row($gap: $pad-300, $justify: center, $wrap: nowrap) {
+  @include flex($gap);
+  flex-flow: row $wrap;
+  justify-content: $justify;
+}
+
+@mixin flex-column($gap: $pad-300, $justify: start, $wrap: nowrap) {
+  @include flex($gap);
+  flex-flow: column $wrap;
+  align-items: start;
+  justify-content: $justify;
+}
+
+@mixin form-input-reset() {
+  border: none;
+  outline: none;
+  background: none;
+  border-radius: 100vmax;
+}
+
+@mixin playpause() {
+  .playpause {
+    @include flex-row;
+    border-radius: 50%;
+    position: relative;
+
+    .icon {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+
+      &.play {
+        margin-left: 2px;
+      }
+    }
+  }
+}
+
+@mixin close-icon() {
+  display: grid;
+  place-items: center;
+  font-size: 2rem;
+  line-height: 1;
+  width: 30px;
+  height: 30px;
+
+  position: absolute;
+  top: 50%;
+  left: $pad-200;
+  transform: translateY(-50%);
+  margin-top: 1px;
+  cursor: pointer;
+  z-index: $z-index-300;
+}
+
+@mixin activeTab-indicator($width: 40px, $height: 8px) {
+  background: var(--bg-variant);
+  position: absolute;
+  bottom: -10px;
+  left: 0;
+  width: $width;
+  height: $height;
+  border-radius: $br-button;
+  transition: $transition;
+  box-shadow: $bs-100;
+}
+
+@mixin row-layout($width: 90px) {
+  width: 100%;
+  display: grid;
+  grid-template-columns: auto 1fr auto auto;
+  place-items: center;
+  gap: $pad-400;
+  width: 100%;
+  display: grid;
+  grid-template-columns: auto 1fr auto auto;
+  place-items: center;
+  gap: $pad-400;
+
+
+  .track-cover {
+    width: $width;
+    height: $width;
+    background: var(--bg-dark-variant);
+    border-radius: $br-thin;
+    overflow: hidden;
+    box-shadow: $bs-400;
+  }
+
+  .details {
+    justify-self: start;
+    @include flex-column();
+    gap: $pad-100;
+    width: 100%;
+    cursor: pointer;
+
+    >* {
+      text-shadow: $ts-100;
+    }
+
+    .track-title {
+      width: 100%;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      font-weight: $fw-semi-bold;
+      color: var(--white-txt-200);
+    }
+
+    .track-artiste {
+      letter-spacing: $ls-100;
+      color: var(--grey-txt-200);
+    }
+  }
+
+  &.active :is(.track-title, .track-artiste) {
+    color: var(--variant-txt);
+  }
+}
+
+@mixin songBar() {
+  a.artist-row {
+    @include flex-row();
+    justify-content: start;
+    width: 100%;
+
+    .cover-img {
+      width: 60px;
+      height: 60px;
+      background: var(--bg-dark-variant);
+      border-radius: $br-round;
+      overflow: hidden;
+      box-shadow: $bs-400;
+    }
+
+  }
+}

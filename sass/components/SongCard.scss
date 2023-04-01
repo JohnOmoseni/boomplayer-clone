@@ -1,0 +1,64 @@
+@use '../abstracts/' as *;
+
+@mixin song-card {
+  .song-card {
+    --padding: 0.5em;
+
+    height: 100%;
+    display: grid;
+    grid-template-rows: minmax(150px, 1fr) auto;
+    gap: $pad-100;
+    padding: $pad-100;
+    border-radius: $br-thin;
+    box-shadow: $bs-200;
+
+    .song-cover {
+      position: relative;
+      background: #2e2e2ece;
+      border-radius: $br-semi-thin;
+
+      .overlay {
+        @include flex-row();
+        position: absolute;
+        inset: 0;
+        background: rgba(black, 0.4);
+        display: none;
+
+        &.isActive {
+          display: flex;
+        }
+
+        .icon {
+          border-radius: 50%;
+          box-shadow: $bs-100;
+        }
+      }
+
+      &:hover .overlay {
+        display: flex;
+      }
+    }
+
+    img {
+      position: absolute;
+      border-radius: inherit;
+      object-fit: cover;
+    }
+
+    .details {
+      width: 100%;
+      padding: $pad-200 $pad-300 $pad-300 $pad-200;
+      overflow: hidden;
+
+      .song-title {
+        line-height: 1.4;
+        letter-spacing: 1px;
+        font-weight: $fw-semi-bold;
+      }
+
+      .subtitle {
+        color: var(--grey-txt-200);
+      }
+    }
+  }
+}

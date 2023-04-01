@@ -1,0 +1,18 @@
+@use '../abstracts/' as *;
+@use "./HeaderTemplate.scss" as *;
+@use "./CardTemplate.scss" as *;
+
+
+@mixin list-container($row-height: auto) {
+   .list-container {
+      width: 100%;
+      height: 100%;
+      padding: $pad-400;
+      display: grid;
+      grid-template-columns: repeat(2, minmax(180px, 1fr));
+      grid-auto-rows: $row-height;
+      gap: $pad-300;
+
+   }
+
+}

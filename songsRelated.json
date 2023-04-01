@@ -1,0 +1,1516 @@
+[
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "628712770",
+    "title": "Calm Down",
+    "subtitle": "Rema & Selena Gomez",
+    "share": {
+      "subject": "Calm Down - Rema & Selena Gomez",
+      "text": "I used Shazam to discover Calm Down by Rema & Selena Gomez.",
+      "href": "https://www.shazam.com/track/628712770/calm-down",
+      "image": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/ee/f1/dc/eef1dc82-f516-fd0f-581c-3f952a0e2243/22UMGIM92113.rgb.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Calm Down by Rema & Selena Gomez.",
+      "html": "https://www.shazam.com/snippets/email-share/628712770?lang=en&country=GB",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/23/24/4c/23244c02-6e19-ffa8-6bf1-01170fe9091a/17ea45ee-4d29-478a-87cd-f8d97fbc88c9_ami-identity-9e987f39368f9dd37966c136969aac14-2022-10-10T10-11-43.274Z_cropped.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/628712770"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/23/24/4c/23244c02-6e19-ffa8-6bf1-01170fe9091a/17ea45ee-4d29-478a-87cd-f8d97fbc88c9_ami-identity-9e987f39368f9dd37966c136969aac14-2022-10-10T10-11-43.274Z_cropped.png/800x800cc.jpg",
+      "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/ee/f1/dc/eef1dc82-f516-fd0f-581c-3f952a0e2243/22UMGIM92113.rgb.jpg/400x400cc.jpg",
+      "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/ee/f1/dc/eef1dc82-f516-fd0f-581c-3f952a0e2243/22UMGIM92113.rgb.jpg/400x400cc.jpg",
+      "joecolor": "b:ea6c31p:0d0400s:24160ct:39190aq:4c2713"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1640501238"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/21/6a/f7/216af760-4f00-d65e-5176-d3b76ff1143d/mzaf_10299316430509002343.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/calm-down/1640501237?i=1640501238&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/calm-down/1640501237?i=1640501238&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "rema",
+        "id": "42",
+        "adamid": "1304716885"
+      },
+      {
+        "alias": "selena-gomez",
+        "id": "42",
+        "adamid": "280215834"
+      }
+    ],
+    "url": "https://www.shazam.com/track/628712770/calm-down",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "632531170",
+    "title": "Unholy",
+    "subtitle": "Sam Smith & Kim Petras",
+    "share": {
+      "subject": "Unholy - Sam Smith & Kim Petras",
+      "text": "I used Shazam to discover Unholy by Sam Smith & Kim Petras.",
+      "href": "https://www.shazam.com/track/632531170/unholy",
+      "image": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/0d/97/a6/0d97a649-760f-522c-269d-9d710dc372ba/22UM1IM07174.rgb.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Unholy by Sam Smith & Kim Petras.",
+      "html": "https://www.shazam.com/snippets/email-share/632531170?lang=en&country=GB",
+      "avatar": "https://is2-ssl.mzstatic.com/image/thumb/AMCArtistImages122/v4/de/0c/5f/de0c5f88-722a-32d8-ff95-51ea2d98cd33/9fd6e963-6b85-446e-aeb9-871641d96659_ami-identity-a9d9c72c23307ab2a64018246fe99b36-2022-11-11T11-06-33.418Z_cropped.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/632531170"
+    },
+    "images": {
+      "background": "https://is2-ssl.mzstatic.com/image/thumb/AMCArtistImages122/v4/de/0c/5f/de0c5f88-722a-32d8-ff95-51ea2d98cd33/9fd6e963-6b85-446e-aeb9-871641d96659_ami-identity-a9d9c72c23307ab2a64018246fe99b36-2022-11-11T11-06-33.418Z_cropped.png/800x800cc.jpg",
+      "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/0d/97/a6/0d97a649-760f-522c-269d-9d710dc372ba/22UM1IM07174.rgb.jpg/400x400cc.jpg",
+      "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/0d/97/a6/0d97a649-760f-522c-269d-9d710dc372ba/22UM1IM07174.rgb.jpg/400x400cc.jpg",
+      "joecolor": "b:36311dp:e4c29ds:e0a581t:c1a583q:be8e6d"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1649325659"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/ce/1c/73/ce1c73a2-108f-5d1c-84dc-553049d0da6f/mzaf_16657177715121641939.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/unholy/1649325651?i=1649325659&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/unholy/1649325651?i=1649325659&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "sam-smith",
+        "id": "42",
+        "adamid": "156488786"
+      },
+      {
+        "alias": "kim-petras",
+        "id": "42",
+        "adamid": "291697579"
+      }
+    ],
+    "url": "https://www.shazam.com/track/632531170/unholy",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "633467896",
+    "title": "Anti-Hero",
+    "subtitle": "Taylor Swift",
+    "share": {
+      "subject": "Anti-Hero - Taylor Swift",
+      "text": "I used Shazam to discover Anti-Hero by Taylor Swift.",
+      "href": "https://www.shazam.com/track/633467896/anti-hero",
+      "image": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/11/33/de/1133deee-070e-98d3-950a-2269807b074e/22UM1IM24801.rgb.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Anti-Hero by Taylor Swift.",
+      "html": "https://www.shazam.com/snippets/email-share/633467896?lang=en&country=GB",
+      "avatar": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/a0/4f/3e/a04f3ec4-4476-1a80-6a3e-6b3641251099/8988402d-d267-4dee-bc51-881135b2ab58_ami-identity-994af5c375f4c3aa96cd6ced4a700799-2022-10-12T00-51-40.037Z_cropped.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/633467896"
+    },
+    "images": {
+      "background": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/a0/4f/3e/a04f3ec4-4476-1a80-6a3e-6b3641251099/8988402d-d267-4dee-bc51-881135b2ab58_ami-identity-994af5c375f4c3aa96cd6ced4a700799-2022-10-12T00-51-40.037Z_cropped.png/800x800cc.jpg",
+      "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/11/33/de/1133deee-070e-98d3-950a-2269807b074e/22UM1IM24801.rgb.jpg/400x400cc.jpg",
+      "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/11/33/de/1133deee-070e-98d3-950a-2269807b074e/22UM1IM24801.rgb.jpg/400x400cc.jpg",
+      "joecolor": "b:eae7e2p:120b14s:412423t:3d373dq:634b49"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1645937257"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/0e/72/26/0e722602-1a42-cb6f-be43-8b83f8cc4925/mzaf_2139607749166804323.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/anti-hero/1645937249?i=1645937257&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/anti-hero/1645937249?i=1645937257&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "taylor-swift",
+        "id": "42",
+        "adamid": "159260351"
+      }
+    ],
+    "url": "https://www.shazam.com/track/633467896/anti-hero",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "619940012",
+    "title": "CUFF IT",
+    "subtitle": "Beyoncé",
+    "share": {
+      "subject": "CUFF IT - Beyoncé",
+      "text": "I used Shazam to discover CUFF IT by Beyoncé.",
+      "href": "https://www.shazam.com/track/619940012/cuff-it",
+      "image": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/05/05/f3/0505f338-9873-feb4-af7f-27a470405e5f/196589246974.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover CUFF IT by Beyoncé.",
+      "html": "https://www.shazam.com/snippets/email-share/619940012?lang=en&country=GB",
+      "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features122/v4/e2/10/a7/e210a754-3409-4e42-8fd9-413c1289cbb9/mza_3319038547447377908.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/619940012"
+    },
+    "images": {
+      "background": "https://is5-ssl.mzstatic.com/image/thumb/Features122/v4/e2/10/a7/e210a754-3409-4e42-8fd9-413c1289cbb9/mza_3319038547447377908.png/800x800cc.jpg",
+      "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/05/05/f3/0505f338-9873-feb4-af7f-27a470405e5f/196589246974.jpg/400x400cc.jpg",
+      "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/05/05/f3/0505f338-9873-feb4-af7f-27a470405e5f/196589246974.jpg/400x400cc.jpg",
+      "joecolor": "b:000000p:f9f7f8s:d7eaf5t:c7c6c6q:acbbc4"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1630005850"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/de/0c/d1/de0cd1b7-869d-2552-2693-86e7372f1722/mzaf_9356701807147985180.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/cuff-it/1630005298?i=1630005850&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/cuff-it/1630005298?i=1630005850&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "beyonc%C3%A9",
+        "id": "42",
+        "adamid": "1419227"
+      }
+    ],
+    "url": "https://www.shazam.com/track/619940012/cuff-it",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "614356939",
+    "title": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+    "subtitle": "Doja Cat",
+    "share": {
+      "subject": "Vegas (From the Original Motion Picture Soundtrack ELVIS) - Doja Cat",
+      "text": "I used Shazam to discover Vegas (From the Original Motion Picture Soundtrack ELVIS) by Doja Cat.",
+      "href": "https://www.shazam.com/track/614356939/vegas-from-the-original-motion-picture-soundtrack-elvis",
+      "image": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/eb/17/f2/eb17f226-831a-b913-0435-748346326f10/196589096296.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Vegas (From the Original Motion Picture Soundtrack ELVIS) by Doja Cat.",
+      "html": "https://www.shazam.com/snippets/email-share/614356939?lang=en&country=GB",
+      "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/d7/a7/37/d7a73703-ee4b-29b7-8f22-64d7b88a31b6/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/614356939"
+    },
+    "images": {
+      "background": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/d7/a7/37/d7a73703-ee4b-29b7-8f22-64d7b88a31b6/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/eb/17/f2/eb17f226-831a-b913-0435-748346326f10/196589096296.jpg/400x400cc.jpg",
+      "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/eb/17/f2/eb17f226-831a-b913-0435-748346326f10/196589096296.jpg/400x400cc.jpg",
+      "joecolor": "b:080808p:ebc4a0s:dbb677t:bd9e82q:b19361"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1622065027"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/50/0b/78/500b78e1-3d78-b634-fd90-1892533f5cc9/mzaf_584002463352351814.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/vegas-from-the-original-motion-picture-soundtrack-elvis/1622064872?i=1622065027&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/vegas-from-the-original-motion-picture-soundtrack-elvis/1622064872?i=1622065027&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "doja-cat",
+        "id": "42",
+        "adamid": "830588310"
+      }
+    ],
+    "url": "https://www.shazam.com/track/614356939/vegas-from-the-original-motion-picture-soundtrack-elvis",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "616669220",
+    "title": "Glimpse of Us",
+    "subtitle": "Joji",
+    "share": {
+      "subject": "Glimpse of Us - Joji",
+      "text": "I used Shazam to discover Glimpse of Us by Joji.",
+      "href": "https://www.shazam.com/track/616669220/glimpse-of-us",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/db/11/f5/db11f57b-6f54-6cf8-2140-be0fc1a3b495/093624864462.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Glimpse of Us by Joji.",
+      "html": "https://www.shazam.com/snippets/email-share/616669220?lang=en&country=GB",
+      "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/ff/19/c1/ff19c1c0-bd5f-b5e6-3073-fcf2dc107f6c/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/616669220"
+    },
+    "images": {
+      "background": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/ff/19/c1/ff19c1c0-bd5f-b5e6-3073-fcf2dc107f6c/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/db/11/f5/db11f57b-6f54-6cf8-2140-be0fc1a3b495/093624864462.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/db/11/f5/db11f57b-6f54-6cf8-2140-be0fc1a3b495/093624864462.jpg/400x400cc.jpg",
+      "joecolor": "b:3f5378p:f1f1f1s:71dfd4t:cdd1d8q:67c3c1"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1640829782"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/e1/0c/ac/e10cacc9-f945-a565-afb3-37985ad6b4fe/mzaf_6309135933487311803.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/glimpse-of-us/1640829780?i=1640829782&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/glimpse-of-us/1640829780?i=1640829782&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "joji",
+        "id": "42",
+        "adamid": "1258279972"
+      }
+    ],
+    "url": "https://www.shazam.com/track/616669220/glimpse-of-us",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "601555046",
+    "title": "Calm Down",
+    "subtitle": "Rema",
+    "share": {
+      "subject": "Calm Down - Rema",
+      "text": "I used Shazam to discover Calm Down by Rema.",
+      "href": "https://www.shazam.com/track/601555046/calm-down",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b2/b4/7c/b2b47cf9-d8e2-53f6-5c62-c974d665c95b/22UMGIM08994.rgb.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Calm Down by Rema.",
+      "html": "https://www.shazam.com/snippets/email-share/601555046?lang=en&country=GB",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/23/24/4c/23244c02-6e19-ffa8-6bf1-01170fe9091a/17ea45ee-4d29-478a-87cd-f8d97fbc88c9_ami-identity-9e987f39368f9dd37966c136969aac14-2022-10-10T10-11-43.274Z_cropped.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/601555046"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/23/24/4c/23244c02-6e19-ffa8-6bf1-01170fe9091a/17ea45ee-4d29-478a-87cd-f8d97fbc88c9_ami-identity-9e987f39368f9dd37966c136969aac14-2022-10-10T10-11-43.274Z_cropped.png/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b2/b4/7c/b2b47cf9-d8e2-53f6-5c62-c974d665c95b/22UMGIM08994.rgb.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b2/b4/7c/b2b47cf9-d8e2-53f6-5c62-c974d665c95b/22UMGIM08994.rgb.jpg/400x400cc.jpg",
+      "joecolor": "b:f7f1d1p:020000s:1f1909t:333029q:4a4431"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1614063459"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/70/9f/c7/709fc7e3-8e43-4b42-4f6e-c9f0a94842ce/mzaf_8187227090010990098.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/calm-down/1614063395?i=1614063459&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/calm-down/1614063395?i=1614063459&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "rema",
+        "id": "42",
+        "adamid": "1304716885"
+      }
+    ],
+    "url": "https://www.shazam.com/track/601555046/calm-down",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "640034009",
+    "title": "Alone",
+    "subtitle": "Burna Boy",
+    "share": {
+      "subject": "Alone - Burna Boy",
+      "text": "I used Shazam to discover Alone by Burna Boy.",
+      "href": "https://www.shazam.com/track/640034009/alone",
+      "image": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/e9/a0/16/e9a016aa-a82f-8e67-50b2-f1101e0be964/22UM1IM30248.rgb.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Alone by Burna Boy.",
+      "html": "https://www.shazam.com/snippets/email-share/640034009?lang=en&country=GB",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5f/77/17/5f771752-2a96-11be-8c1f-b8b4050eacac/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/640034009"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5f/77/17/5f771752-2a96-11be-8c1f-b8b4050eacac/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/e9/a0/16/e9a016aa-a82f-8e67-50b2-f1101e0be964/22UM1IM30248.rgb.jpg/400x400cc.jpg",
+      "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/e9/a0/16/e9a016aa-a82f-8e67-50b2-f1101e0be964/22UM1IM30248.rgb.jpg/400x400cc.jpg",
+      "joecolor": "b:040404p:eae2d0s:d8d7dft:bcb5a7q:aeadb3"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1653546264"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/ae/95/14/ae9514e3-e99e-bba8-6488-00c493aba698/mzaf_11209521166475078407.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/alone/1653546033?i=1653546264&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/alone/1653546033?i=1653546264&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "burna-boy",
+        "id": "42",
+        "adamid": "591899010"
+      }
+    ],
+    "url": "https://www.shazam.com/track/640034009/alone",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "630520607",
+    "title": "STAR WALKIN' (League of Legends Worlds Anthem)",
+    "subtitle": "Lil Nas X",
+    "share": {
+      "subject": "STAR WALKIN' (League of Legends Worlds Anthem) - Lil Nas X",
+      "text": "I used Shazam to discover STAR WALKIN' (League of Legends Worlds Anthem) by Lil Nas X.",
+      "href": "https://www.shazam.com/track/630520607/star-walkin-league-of-legends-worlds-anthem",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/ba/4c/c4/ba4cc4e4-50e5-04f8-b865-389fdf0dfc38/dj.vdbsglhz.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover STAR WALKIN' (League of Legends Worlds Anthem) by Lil Nas X.",
+      "html": "https://www.shazam.com/snippets/email-share/630520607?lang=en&country=GB",
+      "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/cc/71/d7/cc71d772-a807-6943-b4e2-c1b92b7b99b8/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/630520607"
+    },
+    "images": {
+      "background": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/cc/71/d7/cc71d772-a807-6943-b4e2-c1b92b7b99b8/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/ba/4c/c4/ba4cc4e4-50e5-04f8-b865-389fdf0dfc38/dj.vdbsglhz.jpg/400x400cc.jpg",
+      "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/ba/4c/c4/ba4cc4e4-50e5-04f8-b865-389fdf0dfc38/dj.vdbsglhz.jpg/400x400cc.jpg",
+      "joecolor": "b:805c39p:f3f1d8s:d4ecdet:dcd3b8q:c3cfbd"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1642613664"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/6d/4b/66/6d4b6697-57ec-f34c-a56d-53c7fe48acea/mzaf_14430168494514608993.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/star-walkin-league-of-legends-worlds-anthem/1642613175?i=1642613664&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/star-walkin-league-of-legends-worlds-anthem/1642613175?i=1642613664&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "lil-nas-x",
+        "id": "42",
+        "adamid": "1400730578"
+      }
+    ],
+    "url": "https://www.shazam.com/track/630520607/star-walkin-league-of-legends-worlds-anthem",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "372853902",
+    "title": "Californium",
+    "subtitle": "Lessons in Life",
+    "share": {
+      "subject": "Californium - Lessons in Life",
+      "text": "I used Shazam to discover Californium by Lessons in Life.",
+      "href": "https://www.shazam.com/track/372853902/californium",
+      "image": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/86/85/cd/8685cdff-da11-5b7f-a33f-2a7440e9940d/5057302487102_cover.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Californium by Lessons in Life.",
+      "html": "https://www.shazam.com/snippets/email-share/372853902?lang=en&country=GB",
+      "snapchat": "https://www.shazam.com/partner/sc/track/372853902"
+    },
+    "images": {
+      "background": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/86/85/cd/8685cdff-da11-5b7f-a33f-2a7440e9940d/5057302487102_cover.jpg/400x400cc.jpg",
+      "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/86/85/cd/8685cdff-da11-5b7f-a33f-2a7440e9940d/5057302487102_cover.jpg/400x400cc.jpg",
+      "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/86/85/cd/8685cdff-da11-5b7f-a33f-2a7440e9940d/5057302487102_cover.jpg/400x400cc.jpg",
+      "joecolor": "b:f9f9f9p:090c0bs:20211ft:393b3aq:4b4c4b"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1275461182"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/61/65/d0/6165d073-0e64-7610-8764-e6f3b62afdfd/mzaf_3015130286609262065.plus.aac.p.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/californium/1275460862?i=1275461182&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/californium/1275460862?i=1275461182&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "lessons-in-life",
+        "id": "42",
+        "adamid": "1274266314"
+      }
+    ],
+    "url": "https://www.shazam.com/track/372853902/californium",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "638785806",
+    "title": "Into The Unknown (Live)",
+    "subtitle": "Omar Jose Cardona & Lana Love",
+    "share": {
+      "subject": "Into The Unknown (Live) - Omar Jose Cardona & Lana Love",
+      "text": "I used Shazam to discover Into The Unknown (Live) by Omar Jose Cardona & Lana Love.",
+      "href": "https://www.shazam.com/track/638785806/into-the-unknown-live",
+      "twitter": "I used @Shazam to discover Into The Unknown (Live) by Omar Jose Cardona & Lana Love.",
+      "html": "https://www.shazam.com/snippets/email-share/638785806?lang=en&country=GB",
+      "snapchat": "https://www.shazam.com/partner/sc/track/638785806"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:subscribe",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:subscribe",
+              "type": "uri",
+              "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "url": "https://www.shazam.com/track/638785806/into-the-unknown-live",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "588261197",
+    "title": "Den Schmerz lindern",
+    "subtitle": "Die Entspannung Noten",
+    "share": {
+      "subject": "Den Schmerz lindern - Die Entspannung Noten",
+      "text": "I used Shazam to discover Den Schmerz lindern by Die Entspannung Noten.",
+      "href": "https://www.shazam.com/track/588261197/den-schmerz-lindern",
+      "image": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/75/ad/a3/75ada324-da0a-9eff-095c-09a4edf02e02/8052869099154.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Den Schmerz lindern by Die Entspannung Noten.",
+      "html": "https://www.shazam.com/snippets/email-share/588261197?lang=en&country=GB",
+      "snapchat": "https://www.shazam.com/partner/sc/track/588261197"
+    },
+    "images": {
+      "background": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/75/ad/a3/75ada324-da0a-9eff-095c-09a4edf02e02/8052869099154.jpg/400x400cc.jpg",
+      "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/75/ad/a3/75ada324-da0a-9eff-095c-09a4edf02e02/8052869099154.jpg/400x400cc.jpg",
+      "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/75/ad/a3/75ada324-da0a-9eff-095c-09a4edf02e02/8052869099154.jpg/400x400cc.jpg",
+      "joecolor": "b:dce0e1p:24211fs:2d2622t:494745q:504b48"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1589937353"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b8/c4/21/b8c4217e-d8fa-fbf9-b514-711f7beb42e7/mzaf_14424538100575351632.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/den-schmerz-lindern/1589937349?i=1589937353&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/den-schmerz-lindern/1589937349?i=1589937353&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "die-entspannung-noten",
+        "id": "42",
+        "adamid": "546183302"
+      }
+    ],
+    "url": "https://www.shazam.com/track/588261197/den-schmerz-lindern",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "83416772",
+    "title": "Mabon",
+    "subtitle": "Threefold",
+    "share": {
+      "subject": "Mabon - Threefold",
+      "text": "I used Shazam to discover Mabon by Threefold.",
+      "href": "https://www.shazam.com/track/83416772/mabon",
+      "image": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/09/fe/c0/09fec09e-a581-6800-d40a-541487fd47c3/mzi.knnvhffh.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Mabon by Threefold.",
+      "html": "https://www.shazam.com/snippets/email-share/83416772?lang=en&country=GB",
+      "snapchat": "https://www.shazam.com/partner/sc/track/83416772"
+    },
+    "images": {
+      "background": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/09/fe/c0/09fec09e-a581-6800-d40a-541487fd47c3/mzi.knnvhffh.jpg/400x400cc.jpg",
+      "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/09/fe/c0/09fec09e-a581-6800-d40a-541487fd47c3/mzi.knnvhffh.jpg/400x400cc.jpg",
+      "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/09/fe/c0/09fec09e-a581-6800-d40a-541487fd47c3/mzi.knnvhffh.jpg/400x400cc.jpg",
+      "joecolor": "b:d5ac5cp:100917s:2d2817t:372a25q:4e4325"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "292387816"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/37/2d/89/372d892f-f3e8-8358-90c4-022ea29be45b/mzaf_14593333551326779928.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/mabon/292387432?i=292387816&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/mabon/292387432?i=292387816&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "threefold",
+        "id": "42",
+        "adamid": "86773480"
+      }
+    ],
+    "url": "https://www.shazam.com/track/83416772/mabon",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "624180456",
+    "title": "Super Freaky Girl",
+    "subtitle": "Nicki Minaj",
+    "share": {
+      "subject": "Super Freaky Girl - Nicki Minaj",
+      "text": "I used Shazam to discover Super Freaky Girl by Nicki Minaj.",
+      "href": "https://www.shazam.com/track/624180456/super-freaky-girl",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/74/d9/a8/74d9a88e-9641-df34-401a-506b739bd824/22UMGIM87047.rgb.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Super Freaky Girl by Nicki Minaj.",
+      "html": "https://www.shazam.com/snippets/email-share/624180456?lang=en&country=GB",
+      "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/42/ba/a9/42baa989-e090-3478-113a-e6b68efbf531/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/624180456"
+    },
+    "images": {
+      "background": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/42/ba/a9/42baa989-e090-3478-113a-e6b68efbf531/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/74/d9/a8/74d9a88e-9641-df34-401a-506b739bd824/22UMGIM87047.rgb.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/74/d9/a8/74d9a88e-9641-df34-401a-506b739bd824/22UMGIM87047.rgb.jpg/400x400cc.jpg",
+      "joecolor": "b:010101p:f1e7e8s:dca49dt:c1b9baq:b0837d"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1638814465"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/64/57/b8/6457b8d5-b6ef-f705-29d8-3a3d3d0655d4/mzaf_1124696944858493003.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/super-freaky-girl/1638814204?i=1638814465&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/super-freaky-girl/1638814204?i=1638814465&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "nicki-minaj",
+        "id": "42",
+        "adamid": "278464538"
+      }
+    ],
+    "url": "https://www.shazam.com/track/624180456/super-freaky-girl",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "518000092",
+    "title": "Daikanyama, Pt. 1 (feat. Nyoko Mizuki)",
+    "subtitle": "Venja",
+    "share": {
+      "subject": "Daikanyama, Pt. 1 (feat. Nyoko Mizuki) - Venja",
+      "text": "I used Shazam to discover Daikanyama, Pt. 1 (feat. Nyoko Mizuki) by Venja.",
+      "href": "https://www.shazam.com/track/518000092/daikanyama-pt-1-feat-nyoko-mizuki",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1a/5b/8b/1a5b8b8f-8f72-0cf9-448e-2d836c3cf937/artwork.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Daikanyama, Pt. 1 (feat. Nyoko Mizuki) by Venja.",
+      "html": "https://www.shazam.com/snippets/email-share/518000092?lang=en&country=GB",
+      "snapchat": "https://www.shazam.com/partner/sc/track/518000092"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1a/5b/8b/1a5b8b8f-8f72-0cf9-448e-2d836c3cf937/artwork.jpg/400x400cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1a/5b/8b/1a5b8b8f-8f72-0cf9-448e-2d836c3cf937/artwork.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1a/5b/8b/1a5b8b8f-8f72-0cf9-448e-2d836c3cf937/artwork.jpg/400x400cc.jpg"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:subscribe",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:subscribe",
+              "type": "uri",
+              "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "venja",
+        "id": "42",
+        "adamid": "135794440"
+      }
+    ],
+    "url": "https://www.shazam.com/track/518000092/daikanyama-pt-1-feat-nyoko-mizuki",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "71141920",
+    "title": "Giustino, RV 717, Act II: Sento in seno ch'in pioggia di lagrime (arr. G. Anderson and E. J. Roe)",
+    "subtitle": "Anderson & Roe Piano Duo",
+    "share": {
+      "subject": "Giustino, RV 717, Act II: Sento in seno ch'in pioggia di lagrime (arr. G. Anderson and E. J. Roe) - Anderson & Roe Piano Duo",
+      "text": "I used Shazam to discover Giustino, RV 717, Act II: Sento in seno ch'in pioggia di lagrime (arr. G. Anderson and E. J. Roe) by Anderson & Roe Piano Duo.",
+      "href": "https://www.shazam.com/track/71141920/giustino-rv-717-act-ii-sento-in-seno-chin-pioggia-di",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/72/46/5a/72465a7d-7df2-b7c5-f9d9-305070a0adeb/mzi.pczsbvjd.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Giustino, RV 717, Act II: Sento in seno ch'in pioggia di lagrime (arr. G. Anderson and E. J. Roe) by Anderson & Roe Piano Duo.",
+      "html": "https://www.shazam.com/snippets/email-share/71141920?lang=en&country=GB",
+      "snapchat": "https://www.shazam.com/partner/sc/track/71141920"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/72/46/5a/72465a7d-7df2-b7c5-f9d9-305070a0adeb/mzi.pczsbvjd.jpg/400x400cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/72/46/5a/72465a7d-7df2-b7c5-f9d9-305070a0adeb/mzi.pczsbvjd.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/72/46/5a/72465a7d-7df2-b7c5-f9d9-305070a0adeb/mzi.pczsbvjd.jpg/400x400cc.jpg",
+      "joecolor": "b:0b0706p:c6ceeds:97a8d6t:a0a6bfq:7b88ac"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "475471917"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6f/34/94/6f34944c-19d7-19eb-12d5-161a55fbb52c/mzaf_8235604531395458191.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/giustino-rv-717-act-ii-sento-in-seno-chin-pioggia-di/475471885?i=475471917&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/giustino-rv-717-act-ii-sento-in-seno-chin-pioggia-di/475471885?i=475471917&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "anderson-roe-piano-duo",
+        "id": "42",
+        "adamid": "274515498"
+      }
+    ],
+    "url": "https://www.shazam.com/track/71141920/giustino-rv-717-act-ii-sento-in-seno-chin-pioggia-di",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "616898071",
+    "title": "Heart Fluttering",
+    "subtitle": "Narendra Varma",
+    "share": {
+      "subject": "Heart Fluttering - Narendra Varma",
+      "text": "I used Shazam to discover Heart Fluttering by Narendra Varma.",
+      "href": "https://www.shazam.com/track/616898071/heart-fluttering",
+      "image": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/ec/a1/11/eca111a8-b9f2-09de-c343-241ed8e05d79/6103736c-bb07-435f-9fd1-3311e4866382.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Heart Fluttering by Narendra Varma.",
+      "html": "https://www.shazam.com/snippets/email-share/616898071?lang=en&country=GB",
+      "snapchat": "https://www.shazam.com/partner/sc/track/616898071"
+    },
+    "images": {
+      "background": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/ec/a1/11/eca111a8-b9f2-09de-c343-241ed8e05d79/6103736c-bb07-435f-9fd1-3311e4866382.jpg/400x400cc.jpg",
+      "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/ec/a1/11/eca111a8-b9f2-09de-c343-241ed8e05d79/6103736c-bb07-435f-9fd1-3311e4866382.jpg/400x400cc.jpg",
+      "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/ec/a1/11/eca111a8-b9f2-09de-c343-241ed8e05d79/6103736c-bb07-435f-9fd1-3311e4866382.jpg/400x400cc.jpg",
+      "joecolor": "b:1a0222p:f3cdcfs:aebfe3t:c7a4acq:9099bd"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1625708665"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/e5/b6/65/e5b6654f-aac2-d164-d625-421e1f68da4f/mzaf_11693305668730641970.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/heart-fluttering/1625708664?i=1625708665&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/heart-fluttering/1625708664?i=1625708665&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "narendra-varma",
+        "id": "42",
+        "adamid": "1625708352"
+      }
+    ],
+    "url": "https://www.shazam.com/track/616898071/heart-fluttering",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "640033986",
+    "title": "Con La Brisa",
+    "subtitle": "Foudeqush & Ludwig Göransson",
+    "share": {
+      "subject": "Con La Brisa - Foudeqush & Ludwig Göransson",
+      "text": "I used Shazam to discover Con La Brisa by Foudeqush & Ludwig Göransson.",
+      "href": "https://www.shazam.com/track/640033986/con-la-brisa",
+      "image": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/e9/a0/16/e9a016aa-a82f-8e67-50b2-f1101e0be964/22UM1IM30248.rgb.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Con La Brisa by Foudeqush & Ludwig Göransson.",
+      "html": "https://www.shazam.com/snippets/email-share/640033986?lang=en&country=GB",
+      "snapchat": "https://www.shazam.com/partner/sc/track/640033986"
+    },
+    "images": {
+      "background": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/e9/a0/16/e9a016aa-a82f-8e67-50b2-f1101e0be964/22UM1IM30248.rgb.jpg/400x400cc.jpg",
+      "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/e9/a0/16/e9a016aa-a82f-8e67-50b2-f1101e0be964/22UM1IM30248.rgb.jpg/400x400cc.jpg",
+      "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/e9/a0/16/e9a016aa-a82f-8e67-50b2-f1101e0be964/22UM1IM30248.rgb.jpg/400x400cc.jpg",
+      "joecolor": "b:040404p:eae2d0s:d8d7dft:bcb5a7q:aeadb3"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1653546269"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/a5/79/7e/a5797ee9-a15a-4f3b-0a68-0ac53b28ae86/mzaf_14258047481717338383.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/con-la-brisa/1653546033?i=1653546269&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/con-la-brisa/1653546033?i=1653546269&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "foudeqush",
+        "id": "42",
+        "adamid": "1262210582"
+      },
+      {
+        "alias": "ludwig-g%C3%B6ransson",
+        "id": "42",
+        "adamid": "391832320"
+      }
+    ],
+    "url": "https://www.shazam.com/track/640033986/con-la-brisa",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "613891396",
+    "title": "Hold My Hand",
+    "subtitle": "Lady Gaga",
+    "share": {
+      "subject": "Hold My Hand - Lady Gaga",
+      "text": "I used Shazam to discover Hold My Hand by Lady Gaga.",
+      "href": "https://www.shazam.com/track/613891396/hold-my-hand",
+      "image": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/e6/14/14/e6141444-6597-4c3a-7ad1-86304528acf4/22UMGIM45569.rgb.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Hold My Hand by Lady Gaga.",
+      "html": "https://www.shazam.com/snippets/email-share/613891396?lang=en&country=GB",
+      "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/2c/7d/5e/2c7d5ec0-bad6-5fb6-08f2-ccfd94aa2985/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/613891396"
+    },
+    "images": {
+      "background": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/2c/7d/5e/2c7d5ec0-bad6-5fb6-08f2-ccfd94aa2985/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/e6/14/14/e6141444-6597-4c3a-7ad1-86304528acf4/22UMGIM45569.rgb.jpg/400x400cc.jpg",
+      "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/e6/14/14/e6141444-6597-4c3a-7ad1-86304528acf4/22UMGIM45569.rgb.jpg/400x400cc.jpg",
+      "joecolor": "b:1f1303p:f6e7a8s:f8e193t:cbbd87q:ccb876"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1621817905"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/32/b8/11/32b8116b-e335-0a81-2755-ac13cf59520a/mzaf_8485642671902821053.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/hold-my-hand/1621817793?i=1621817905&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/hold-my-hand/1621817793?i=1621817905&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "lady-gaga",
+        "id": "42",
+        "adamid": "277293880"
+      }
+    ],
+    "url": "https://www.shazam.com/track/613891396/hold-my-hand",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "469740067",
+    "title": "There Is a Long Road",
+    "subtitle": "Rising Eagle",
+    "share": {
+      "subject": "There Is a Long Road - Rising Eagle",
+      "text": "I used Shazam to discover There Is a Long Road by Rising Eagle.",
+      "href": "https://www.shazam.com/track/469740067/there-is-a-long-road",
+      "image": "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/56/52/f4/5652f4e5-0e28-7f00-0b34-45cc66e64911/859732688044_cover.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover There Is a Long Road by Rising Eagle.",
+      "html": "https://www.shazam.com/snippets/email-share/469740067?lang=en&country=GB",
+      "snapchat": "https://www.shazam.com/partner/sc/track/469740067"
+    },
+    "images": {
+      "background": "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/56/52/f4/5652f4e5-0e28-7f00-0b34-45cc66e64911/859732688044_cover.jpg/400x400cc.jpg",
+      "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/56/52/f4/5652f4e5-0e28-7f00-0b34-45cc66e64911/859732688044_cover.jpg/400x400cc.jpg",
+      "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/56/52/f4/5652f4e5-0e28-7f00-0b34-45cc66e64911/859732688044_cover.jpg/400x400cc.jpg"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:subscribe",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:subscribe",
+              "type": "uri",
+              "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "rising-eagle",
+        "id": "42",
+        "adamid": "1465158849"
+      }
+    ],
+    "url": "https://www.shazam.com/track/469740067/there-is-a-long-road",
+    "highlightsurls": {},
+    "properties": {}
+  }
+]

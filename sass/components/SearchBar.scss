@@ -1,0 +1,33 @@
+@use '../abstracts/' as *;
+
+@mixin searchBar() {
+  @include flex-row($justify: start);
+  width: 100%;
+  padding: $pad-200 $pad-500;
+  gap: $pad-200;
+  background: var(--bg-dark-variant);
+  border-radius: $br-button;
+
+  span {
+    display: grid;
+    place-items: center;
+  }
+
+  form {
+    width: 100%;
+    padding-left: $pad-100;
+
+    input {
+      @include form-input-reset();
+      width: 100%;
+
+      &::placeholder {
+        color: var(--grey-txt-200);
+        font-weight: $fw-semi-bold;
+      }
+    }
+
+  }
+
+
+}

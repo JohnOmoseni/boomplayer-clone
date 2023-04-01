@@ -1,0 +1,20 @@
+@use '../abstracts/' as *;
+
+@mixin header-template($bg: var(--bg-fixed)) {
+   .header-template {
+      width: 100%;
+      padding-block: $pad-400;
+      background: $bg;
+      text-align: center;
+      position: sticky;
+      top: 0;
+      z-index: $z-index-200;
+      box-shadow: $bs-200;
+
+      .prev-page {
+         @include close-icon();
+      }
+
+   }
+
+}

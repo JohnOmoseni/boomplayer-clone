@@ -1,0 +1,53 @@
+@use '../../abstracts/' as *;
+
+@mixin related-songs {
+   .top {
+      @include flex-row();
+      width: 100%;
+      padding-inline: $pad-200;
+
+      h3 {
+         flex: 1;
+      }
+
+      a {
+         color: var(--grey-txt-200)
+      }
+   }
+
+   ul.body {
+      margin-blocK: $pad-300;
+
+      li.track {
+         width: 100%;
+         padding-block: $pad-200;
+         cursor: pointer;
+
+         &:not(:last-child) {
+            border-bottom: 1px solid var(--border-regular);
+         }
+
+         .row {
+            display: grid;
+            grid-template-columns: 1fr min-content;
+            justify-content: start;
+            gap: $pad-400;
+            width: 100%;
+
+            :where(.subtitle) {
+               color: var(--grey-txt-200);
+               font-weight: $fw-regular;
+            }
+         }
+
+         &.active-song * {
+            color: var(--variant-txt);
+         }
+
+         .icon {
+            @include flex-row();
+            color: red;
+         }
+      }
+   }
+}

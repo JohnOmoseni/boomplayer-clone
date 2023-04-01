@@ -1,0 +1,61 @@
+@use '../abstracts/' as *;
+
+.playlist {
+  position: fixed;
+  top: 40vh;
+
+  width: min(100%, 600px);
+  height: 60vh;
+  background: #151515;
+  border-radius: 20px 20px 0 0;
+  z-index: $z-index-300;
+  overflow: hidden;
+  transform: translateZ(0);
+
+  .playlist-content {
+    position: absolute;
+    left: auto;
+    width: 100%;
+    height: 100%;
+    overflow: hidden auto;
+
+    &::-webkit-scrollbar {
+      width: 0;
+      height: 0;
+    }
+
+    >* {
+      padding-inline: $pad-200;
+    }
+
+  }
+
+  .playlist-heading {
+    text-shadow: $ts-100;
+    letter-spacing: $ls-100;
+    padding-block: $pad-400;
+    padding-inline: $pad-300;
+
+    background: #151515;
+    width: 100%;
+    position: fixed;
+    left: 0;
+
+  }
+
+  .playlist-body {
+    @include flex-column;
+    margin-block: 4.5em 1em;
+    gap: 0;
+
+    li {
+      width: 100%;
+      padding-block: $pad-200;
+      text-shadow: $ts-100;
+
+      &:not(:last-child) {
+        border-bottom: 1px solid var(--border-light);
+      }
+    }
+  }
+}

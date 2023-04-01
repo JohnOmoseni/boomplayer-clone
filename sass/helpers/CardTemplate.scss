@@ -1,0 +1,63 @@
+@use '../abstracts/' as *;
+
+
+@mixin card-template($cover-img-size: 170px) {
+   .card-template {
+      padding: $pad-100;
+      border-radius: $br-thin;
+      box-shadow: $bs-250;
+      overflow: hidden;
+
+      a {
+         width: 100%;
+         display: grid;
+         grid-template-rows: minmax($cover-img-size, auto) auto;
+         gap: $pad-100;
+      }
+
+      .card-cover {
+         position: relative;
+         background: var(--bg-dark-variant);
+         border-radius: $br-semi-thin;
+         overflow: hidden;
+
+         .overlay {
+            @include flex-row();
+            position: absolute;
+            inset: auto 0 0 0;
+            background: rgba(rgb(201, 190, 190), 0.4);
+
+            .icon {
+               box-shadow: $bs-100;
+            }
+         }
+
+         &:hover .overlay {
+            background-image: linear-gradient(180deg, rgba(black, 0.6) 10%, transparent);
+         }
+      }
+
+      img {
+         position: absolute;
+         border-radius: inherit;
+      }
+
+      .details {
+         width: 100%;
+         position: relative;
+         padding: 0.4em;
+         overflow: hidden;
+
+         .title {
+            font-weight: $fw-semi-bold;
+            text-shadow: $ts-200;
+         }
+
+         .small-txt {
+            color: var(--grey-txt-200);
+         }
+      }
+
+   }
+
+}

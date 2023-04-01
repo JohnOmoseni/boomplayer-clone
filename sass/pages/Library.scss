@@ -1,0 +1,50 @@
+@use '../abstracts/' as *;
+@use './Library/LibraryHeader.scss' as *;
+@use './Library/LibraryBody.scss' as *;
+@use './Library/ContainerLayout.scss' as *;
+
+.library-wrapper {
+  width: 100%;
+  min-height: 100vh;
+
+  @include LibraryHeader();
+  @include LibraryBody();
+
+  .list-length span {
+    display: inline-block;
+    width: 100%;
+    color: var(--grey-txt-200);
+    padding: $pad-400 $pad-500 $pad-200;
+    // background: red;
+  }
+
+  .artists-container {
+    @include Container-Layout();
+  }
+
+  .albums-container {
+    @include Container-Layout($width: 70px);
+
+    .track-details .track-cover {
+      border-radius: $br-round;
+    }
+  }
+
+  &:not(:has(> .library-content)) .heading .play-all {
+    display: none;
+  }
+
+  &> :last-child {
+    padding-block: $pad-200 $pad-600;
+  }
+
+  &~.player-container {
+    min-height: fit-content;
+    padding-bottom: $pad-300;
+
+    >.links {
+      display: none;
+    }
+  }
+
+}

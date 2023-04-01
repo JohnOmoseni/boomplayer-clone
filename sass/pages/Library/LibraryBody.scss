@@ -1,0 +1,17 @@
+@use '../../abstracts/' as *;
+@use '../../helpers/ListRow.scss' as *;
+
+@mixin LibraryBody() {
+  .library-content {
+    position: relative;
+    padding-block: $pad-200 7em;
+    width: 100%;
+    height: 100%;
+
+    @include list-row();
+
+    .icon {
+      padding-inline: $pad-300;
+    }
+  }
+}

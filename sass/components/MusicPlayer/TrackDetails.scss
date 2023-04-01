@@ -1,0 +1,43 @@
+@use '../../abstracts/' as *;
+
+@mixin Track-Details() {
+  .track-details {
+    @include flex-column();
+    gap: $pad-100;
+    align-items: center;
+    width: 100%;
+    padding-inline: $pad-600;
+
+    .cover-art {
+      margin-block: $pad-400;
+      height: 40vh;
+      width: 40vh;
+      background: url(../Images/africa.jpg) no-repeat center;
+      background-size: cover;
+      background-color: var(--bg-dark-variant);
+      border-radius: $br-semi-thin;
+      box-shadow: $bs-100;
+      overflow: hidden;
+    }
+
+    .details {
+      width: 100%;
+      text-align: center;
+
+      .track-name {
+        width: 100%;
+        font-size: 1.8rem;
+        text-shadow: $ts-200;
+        line-height: 1.4;
+      }
+
+      .track-artiste {
+        color: var(--grey-txt-200);
+        letter-spacing: $ls-100;
+        font-weight: $fw-semi-bold;
+      }
+
+    }
+
+  }
+}

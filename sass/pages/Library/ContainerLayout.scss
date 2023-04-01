@@ -1,0 +1,19 @@
+@use '../../abstracts/' as *;
+
+
+@mixin Container-Layout($width: 90px) {
+  position: relative;
+  padding-inline: $pad-400;
+  display: grid;
+  align-items: center;
+  gap: 1.6em;
+
+  .track-details {
+    @include row-layout($width);
+
+    .track-title {
+      font-size: 1.3rem;
+    }
+  }
+
+}

@@ -1,0 +1,53 @@
+@use "./variables" as *;
+
+// Font-Family
+$ff-family: "Poppins", sans-serif;
+$ff-header: $ff-family;
+$ff-subheading: $ff-family;
+$ff-variant: sans-serif;
+$ff-body: $ff-family;
+
+// Font-Weight
+$fw-light: 300;
+$fw-regular: 400;
+$fw-semi-bold: 600;
+$fw-bold: 800;
+
+// Font-Size
+$fs-100: 0.72rem;
+$fs-200: 0.8125rem;
+$fs-250: 0.93rem;
+$fs-300: 1rem;
+$fs-350: 1.2rem;
+$fs-400: 1.5rem;
+$fs-500: 2rem;
+$fs-600: 2.5rem;
+$fs-700: 3rem;
+
+$fs-small-text: $fs-200;
+$fs-nav-links: $fs-250;
+$fs-button: $fs-350;
+$fs-body: $fs-300;
+$fs-primary-heading: $fs-500;
+$fs-secondary-heading: $fs-400;
+$fs-sub-heading: $fs-350;
+
+// Fonts Utility Classes
+:where(.fs-small,
+  .small-txt) {
+  font-size: $fs-250;
+  font-weight: $fw-semi-bold;
+  text-shadow: $ts-100;
+}
+
+.small-txt {
+  color: var(--grey-txt-200)
+}
+
+.fw-semi-bold {
+  font-weight: $fw-semi-bold;
+}
+
+.fw-bold {
+  font-weight: $fw-bold;
+}

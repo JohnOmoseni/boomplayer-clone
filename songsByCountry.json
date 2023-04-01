@@ -1,0 +1,3887 @@
+[
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "638715079",
+    "title": "Won Da Mo (feat. Crayon, Bayanni, Magixx, LADIPOE, Ayra Starr & Johnny Drille)",
+    "subtitle": "Mavins, Rema & Boy Spyce",
+    "share": {
+      "subject": "Won Da Mo (feat. Crayon, Bayanni, Magixx, LADIPOE, Ayra Starr & Johnny Drille) - Mavins, Rema & Boy Spyce",
+      "text": "I used Shazam to discover Won Da Mo (feat. Crayon, Bayanni, Magixx, LADIPOE, Ayra Starr & Johnny Drille) by Mavins, Rema & Boy Spyce.",
+      "href": "https://www.shazam.com/track/638715079/won-da-mo-feat-crayon-bayanni-magixx-ladipoe-ayra-starr",
+      "image": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/90/cc/6f/90cc6fd2-7b2d-ccac-2fa2-cb0548580798/5059449100456.png/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Won Da Mo (feat. Crayon, Bayanni, Magixx, LADIPOE, Ayra Starr & Johnny Drille) by Mavins, Rema & Boy Spyce.",
+      "html": "https://www.shazam.com/snippets/email-share/638715079?lang=en&country=GB",
+      "avatar": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/91/1c/56/911c567c-5ce5-4ecf-bec5-206ef0849f44/ed8507cb-e036-44ec-a876-2f310af0f3f7_ami-identity-ad542841f26ec39d39e0d34f1cb1584b-2022-12-01T14-03-13.697Z_cropped.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/638715079"
+    },
+    "images": {
+      "background": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/91/1c/56/911c567c-5ce5-4ecf-bec5-206ef0849f44/ed8507cb-e036-44ec-a876-2f310af0f3f7_ami-identity-ad542841f26ec39d39e0d34f1cb1584b-2022-12-01T14-03-13.697Z_cropped.png/800x800cc.jpg",
+      "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/90/cc/6f/90cc6fd2-7b2d-ccac-2fa2-cb0548580798/5059449100456.png/400x400cc.jpg",
+      "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/90/cc/6f/90cc6fd2-7b2d-ccac-2fa2-cb0548580798/5059449100456.png/400x400cc.jpg",
+      "joecolor": "b:f6f6f4p:0d0c0bs:392e2ct:3b3b3aq:5e5654"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1654739856"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/f5/b1/98/f5b198b2-79d7-cc36-8996-89d4179b92ca/mzaf_10053024886461966725.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/won-da-mo-feat-crayon-bayanni-magixx-ladipoe-ayra-starr/1654739852?i=1654739856&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/won-da-mo-feat-crayon-bayanni-magixx-ladipoe-ayra-starr/1654739852?i=1654739856&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "mavins",
+        "id": "42",
+        "adamid": "872725945"
+      },
+      {
+        "alias": "rema",
+        "id": "42",
+        "adamid": "1304716885"
+      },
+      {
+        "alias": "boy-spyce",
+        "id": "42",
+        "adamid": "1560296760"
+      }
+    ],
+    "url": "https://www.shazam.com/track/638715079/won-da-mo-feat-crayon-bayanni-magixx-ladipoe-ayra-starr",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "640690838",
+    "title": "Asiwaju",
+    "subtitle": "Ruger",
+    "share": {
+      "subject": "Asiwaju - Ruger",
+      "text": "I used Shazam to discover Asiwaju by Ruger.",
+      "href": "https://www.shazam.com/track/640690838/asiwaju",
+      "image": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/f0/58/dd/f058dd35-d0f8-0b25-cc7d-5dad433d3d04/196589646088.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Asiwaju by Ruger.",
+      "html": "https://www.shazam.com/snippets/email-share/640690838?lang=en&country=GB",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/97/77/1d/97771d00-c9b7-17e8-190b-ba99ddd2ccc5/mzl.ffquqfya.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/640690838"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/97/77/1d/97771d00-c9b7-17e8-190b-ba99ddd2ccc5/mzl.ffquqfya.png/800x800cc.jpg",
+      "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/f0/58/dd/f058dd35-d0f8-0b25-cc7d-5dad433d3d04/196589646088.jpg/400x400cc.jpg",
+      "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/f0/58/dd/f058dd35-d0f8-0b25-cc7d-5dad433d3d04/196589646088.jpg/400x400cc.jpg",
+      "joecolor": "b:370c13p:fcd3e1s:dfbbcat:d5abb8q:be98a5"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1653400029"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/91/ae/ee/91aeee4f-779a-3776-59b9-c003b03d6531/mzaf_2301334515189359429.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/asiwaju/1653400028?i=1653400029&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/asiwaju/1653400028?i=1653400029&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "ruger",
+        "id": "42",
+        "adamid": "1548965965"
+      }
+    ],
+    "url": "https://www.shazam.com/track/640690838/asiwaju",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "627117018",
+    "title": "Amber Rose",
+    "subtitle": "Marvel",
+    "share": {
+      "subject": "Amber Rose - Marvel",
+      "text": "I used Shazam to discover Amber Rose by Marvel.",
+      "href": "https://www.shazam.com/track/627117018/amber-rose",
+      "image": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/a0/4b/d8/a04bd8f7-2e4e-ca6c-cebc-8b79790f642c/artwork.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Amber Rose by Marvel.",
+      "html": "https://www.shazam.com/snippets/email-share/627117018?lang=en&country=GB",
+      "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/ee/16/9a/ee169a95-2b5f-d0fa-d83d-f7442715e1d3/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/627117018"
+    },
+    "images": {
+      "background": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/ee/16/9a/ee169a95-2b5f-d0fa-d83d-f7442715e1d3/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/a0/4b/d8/a04bd8f7-2e4e-ca6c-cebc-8b79790f642c/artwork.jpg/400x400cc.jpg",
+      "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/a0/4b/d8/a04bd8f7-2e4e-ca6c-cebc-8b79790f642c/artwork.jpg/400x400cc.jpg",
+      "joecolor": "b:111419p:f2f6fas:e78e9et:c5c9cdq:bc7683"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1642188631"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/30/85/02/30850257-6f17-7cb2-6cc0-08c311688f5f/mzaf_6968835409017075290.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/amber-rose/1642188627?i=1642188631&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/amber-rose/1642188627?i=1642188631&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "marvel",
+        "id": "42",
+        "adamid": "1574736339"
+      }
+    ],
+    "url": "https://www.shazam.com/track/627117018/amber-rose",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "641598638",
+    "title": "Wetin",
+    "subtitle": "Yarden",
+    "share": {
+      "subject": "Wetin - Yarden",
+      "text": "I used Shazam to discover Wetin by Yarden.",
+      "href": "https://www.shazam.com/track/641598638/wetin",
+      "image": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/bb/3d/4a/bb3d4a92-f32e-fda4-dd9f-8c1e1153e4b4/685457911491.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Wetin by Yarden.",
+      "html": "https://www.shazam.com/snippets/email-share/641598638?lang=en&country=GB",
+      "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/47/98/62/479862d2-315e-521a-e4cc-abfb90c92045/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/641598638"
+    },
+    "images": {
+      "background": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/47/98/62/479862d2-315e-521a-e4cc-abfb90c92045/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/bb/3d/4a/bb3d4a92-f32e-fda4-dd9f-8c1e1153e4b4/685457911491.jpg/400x400cc.jpg",
+      "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/bb/3d/4a/bb3d4a92-f32e-fda4-dd9f-8c1e1153e4b4/685457911491.jpg/400x400cc.jpg",
+      "joecolor": "b:dac5a6p:1f1608s:332a1ct:453928q:554937"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1654312338"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/64/c6/41/64c64125-c43a-1162-d3da-05f2b8011d1c/mzaf_3003720703622729841.plus.aac.p.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/wetin/1654312337?i=1654312338&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/wetin/1654312337?i=1654312338&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "yarden",
+        "id": "42",
+        "adamid": "1525448636"
+      }
+    ],
+    "url": "https://www.shazam.com/track/641598638/wetin",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "644270294",
+    "title": "People",
+    "subtitle": "Libianca",
+    "share": {
+      "subject": "People - Libianca",
+      "text": "I used Shazam to discover People by Libianca.",
+      "href": "https://www.shazam.com/track/644270294/people",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/b5/f5/12/b5f512e6-e9d6-20cf-dcdf-d46d984b28fd/artwork.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover People by Libianca.",
+      "html": "https://www.shazam.com/snippets/email-share/644270294?lang=en&country=GB",
+      "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/0d/3c/d5/0d3cd5f1-4bb4-c8d8-8449-7b569a9401d9/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/644270294"
+    },
+    "images": {
+      "background": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/0d/3c/d5/0d3cd5f1-4bb4-c8d8-8449-7b569a9401d9/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/b5/f5/12/b5f512e6-e9d6-20cf-dcdf-d46d984b28fd/artwork.jpg/400x400cc.jpg",
+      "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/b5/f5/12/b5f512e6-e9d6-20cf-dcdf-d46d984b28fd/artwork.jpg/400x400cc.jpg",
+      "joecolor": "b:1a0e00p:ffffffs:cdc9bft:d1cecbq:a9a399"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1658185055"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/88/37/11/883711f4-98cc-a07e-d578-9d3ec135058d/mzaf_17188486567914923505.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/people/1658185050?i=1658185055&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/people/1658185050?i=1658185055&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "libianca",
+        "id": "42",
+        "adamid": "1478449554"
+      }
+    ],
+    "url": "https://www.shazam.com/track/644270294/people",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "631801864",
+    "title": "Xtra Cool",
+    "subtitle": "Young Jonn",
+    "share": {
+      "subject": "Xtra Cool - Young Jonn",
+      "text": "I used Shazam to discover Xtra Cool by Young Jonn.",
+      "href": "https://www.shazam.com/track/631801864/xtra-cool",
+      "image": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/68/54/64/68546407-9a42-35e5-e819-3bad4f2593ed/730706007712.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Xtra Cool by Young Jonn.",
+      "html": "https://www.shazam.com/snippets/email-share/631801864?lang=en&country=GB",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4a/08/be/4a08bed2-c7ae-e4d2-ec20-5e39afef72db/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/631801864"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4a/08/be/4a08bed2-c7ae-e4d2-ec20-5e39afef72db/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/68/54/64/68546407-9a42-35e5-e819-3bad4f2593ed/730706007712.jpg/400x400cc.jpg",
+      "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/68/54/64/68546407-9a42-35e5-e819-3bad4f2593ed/730706007712.jpg/400x400cc.jpg",
+      "joecolor": "b:070707p:fefefes:d6d6d6t:cdcdcdq:adadad"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1648535238"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/72/d4/80/72d480a9-a755-d77e-8b46-3b1702bea3e2/mzaf_6434947367853643113.plus.aac.p.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/xtra-cool/1648535102?i=1648535238&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/xtra-cool/1648535102?i=1648535238&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "young-jonn",
+        "id": "42",
+        "adamid": "1300912716"
+      }
+    ],
+    "url": "https://www.shazam.com/track/631801864/xtra-cool",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "633298053",
+    "title": "Caution (Speed Up)",
+    "subtitle": "Shoday",
+    "share": {
+      "subject": "Caution (Speed Up) - Shoday",
+      "text": "I used Shazam to discover Caution (Speed Up) by Shoday.",
+      "href": "https://www.shazam.com/track/633298053/caution-speed-up",
+      "image": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/ed/b9/a9/edb9a9a7-ae44-8032-f465-8ca6ad46f770/artwork.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Caution (Speed Up) by Shoday.",
+      "html": "https://www.shazam.com/snippets/email-share/633298053?lang=en&country=GB",
+      "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/b2/a9/9d/b2a99d17-b6d4-64cc-dcfd-ef973cada37c/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/633298053"
+    },
+    "images": {
+      "background": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/b2/a9/9d/b2a99d17-b6d4-64cc-dcfd-ef973cada37c/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/ed/b9/a9/edb9a9a7-ae44-8032-f465-8ca6ad46f770/artwork.jpg/400x400cc.jpg",
+      "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/ed/b9/a9/edb9a9a7-ae44-8032-f465-8ca6ad46f770/artwork.jpg/400x400cc.jpg",
+      "joecolor": "b:ac1835p:fff6fcs:ffdd01t:eec9d4q:eeb50c"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1645726218"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/10/4d/c8/104dc8db-30f5-9755-d42c-985c3eb7508b/mzaf_4815955982907452612.plus.aac.p.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/caution-speed-up/1645726217?i=1645726218&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/caution-speed-up/1645726217?i=1645726218&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "shoday",
+        "id": "42",
+        "adamid": "1592883497"
+      }
+    ],
+    "url": "https://www.shazam.com/track/633298053/caution-speed-up",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "627548198",
+    "title": "Ta Ta Ta",
+    "subtitle": "Bayanni",
+    "share": {
+      "subject": "Ta Ta Ta - Bayanni",
+      "text": "I used Shazam to discover Ta Ta Ta by Bayanni.",
+      "href": "https://www.shazam.com/track/627548198/ta-ta-ta",
+      "image": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/13/50/28/13502856-4058-674f-0a6c-ce1ab963cc38/5059449088426.png/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Ta Ta Ta by Bayanni.",
+      "html": "https://www.shazam.com/snippets/email-share/627548198?lang=en&country=GB",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/21/24/c5/2124c5dd-bf7c-233d-ccdf-6f6473a3d912/mzl.tppypmtr.jpg/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/627548198"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/21/24/c5/2124c5dd-bf7c-233d-ccdf-6f6473a3d912/mzl.tppypmtr.jpg/800x800cc.jpg",
+      "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/13/50/28/13502856-4058-674f-0a6c-ce1ab963cc38/5059449088426.png/400x400cc.jpg",
+      "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/13/50/28/13502856-4058-674f-0a6c-ce1ab963cc38/5059449088426.png/400x400cc.jpg",
+      "joecolor": "b:d4cabep:0e0e0ds:3a2017t:353330q:584238"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1640152200"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/fe/25/6d/fe256d98-02c7-b028-c485-74105bda960a/mzaf_6894142098031127027.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/ta-ta-ta/1640152195?i=1640152200&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/ta-ta-ta/1640152195?i=1640152200&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "bayanni",
+        "id": "42",
+        "adamid": "1639092905"
+      }
+    ],
+    "url": "https://www.shazam.com/track/627548198/ta-ta-ta",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "635181579",
+    "title": "How Are You (My Friend)",
+    "subtitle": "Johnny Drille",
+    "share": {
+      "subject": "How Are You (My Friend) - Johnny Drille",
+      "text": "I used Shazam to discover How Are You (My Friend) by Johnny Drille.",
+      "href": "https://www.shazam.com/track/635181579/how-are-you-my-friend",
+      "image": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/a0/d5/f2/a0d5f2c8-2415-a1e7-533b-c19ec5934e07/5059449096629.png/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover How Are You (My Friend) by Johnny Drille.",
+      "html": "https://www.shazam.com/snippets/email-share/635181579?lang=en&country=GB",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/58/1c/e0/581ce03c-fc1c-4f30-3402-3ffbc4e585e3/6fa8c668-4659-4d5b-ada2-01cac0c7aa94_ami-identity-177eeba554557074ebb5cb5a08339070-2022-10-27T13-24-29.636Z_cropped.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/635181579"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/58/1c/e0/581ce03c-fc1c-4f30-3402-3ffbc4e585e3/6fa8c668-4659-4d5b-ada2-01cac0c7aa94_ami-identity-177eeba554557074ebb5cb5a08339070-2022-10-27T13-24-29.636Z_cropped.png/800x800cc.jpg",
+      "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/a0/d5/f2/a0d5f2c8-2415-a1e7-533b-c19ec5934e07/5059449096629.png/400x400cc.jpg",
+      "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/a0/d5/f2/a0d5f2c8-2415-a1e7-533b-c19ec5934e07/5059449096629.png/400x400cc.jpg",
+      "joecolor": "b:131d20p:ebd9e7s:f4d1cct:bfb3bfq:c7adaa"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1650618823"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/fe/d7/ec/fed7ecb6-cda8-67ca-7b72-e7932b2a410e/mzaf_9736277753700094663.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/how-are-you-my-friend/1650618820?i=1650618823&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/how-are-you-my-friend/1650618820?i=1650618823&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "johnny-drille",
+        "id": "42",
+        "adamid": "1048119915"
+      }
+    ],
+    "url": "https://www.shazam.com/track/635181579/how-are-you-my-friend",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "638829017",
+    "title": "SWEET US",
+    "subtitle": "Timaya",
+    "share": {
+      "subject": "SWEET US - Timaya",
+      "text": "I used Shazam to discover SWEET US by Timaya.",
+      "href": "https://www.shazam.com/track/638829017/sweet-us",
+      "image": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/15/49/fd/1549fdbd-0122-462d-9948-04c4a1be50fd/194690970825_cover.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover SWEET US by Timaya.",
+      "html": "https://www.shazam.com/snippets/email-share/638829017?lang=en&country=GB",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages122/v4/ef/b7/f9/efb7f97b-7240-3e66-1872-7bc44841148a/9bc0d74d-c858-4ea4-9636-86ccf7737a20_ami-identity-c1cbd3c7232e76e90366d40de045461d-2022-11-17T01-07-45.132Z_cropped.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/638829017"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages122/v4/ef/b7/f9/efb7f97b-7240-3e66-1872-7bc44841148a/9bc0d74d-c858-4ea4-9636-86ccf7737a20_ami-identity-c1cbd3c7232e76e90366d40de045461d-2022-11-17T01-07-45.132Z_cropped.png/800x800cc.jpg",
+      "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/15/49/fd/1549fdbd-0122-462d-9948-04c4a1be50fd/194690970825_cover.jpg/400x400cc.jpg",
+      "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/15/49/fd/1549fdbd-0122-462d-9948-04c4a1be50fd/194690970825_cover.jpg/400x400cc.jpg",
+      "joecolor": "b:271c16p:d5d89cs:c5c88bt:b2b281q:a5a574"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1651516834"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c1/60/90/c1609086-28db-6279-6a88-43c7e209c274/mzaf_10455904061656501314.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/sweet-us/1651516829?i=1651516834&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/sweet-us/1651516829?i=1651516834&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "timaya",
+        "id": "42",
+        "adamid": "282132704"
+      }
+    ],
+    "url": "https://www.shazam.com/track/638829017/sweet-us",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "643309015",
+    "title": "Tenth Avenue North - Control (Drill Version) (Drill Version)",
+    "subtitle": "EnBiEn",
+    "share": {
+      "subject": "Tenth Avenue North - Control (Drill Version) (Drill Version) - EnBiEn",
+      "text": "I used Shazam to discover Tenth Avenue North - Control (Drill Version) (Drill Version) by EnBiEn.",
+      "href": "https://www.shazam.com/track/643309015/tenth-avenue-north-control-drill-version-drill-version",
+      "twitter": "I used @Shazam to discover Tenth Avenue North - Control (Drill Version) (Drill Version) by EnBiEn.",
+      "html": "https://www.shazam.com/snippets/email-share/643309015?lang=en&country=GB",
+      "snapchat": "https://www.shazam.com/partner/sc/track/643309015"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:subscribe",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:subscribe",
+              "type": "uri",
+              "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "url": "https://www.shazam.com/track/643309015/tenth-avenue-north-control-drill-version-drill-version",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "608171106",
+    "title": "Stay",
+    "subtitle": "Mage the Producer",
+    "share": {
+      "subject": "Stay - Mage the Producer",
+      "text": "I used Shazam to discover Stay by Mage the Producer.",
+      "href": "https://www.shazam.com/track/608171106/stay",
+      "image": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/19/b2/d3/19b2d3ff-46cf-ca6a-b772-d80470fc4201/8445490514057.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Stay by Mage the Producer.",
+      "html": "https://www.shazam.com/snippets/email-share/608171106?lang=en&country=GB",
+      "snapchat": "https://www.shazam.com/partner/sc/track/608171106"
+    },
+    "images": {
+      "background": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/19/b2/d3/19b2d3ff-46cf-ca6a-b772-d80470fc4201/8445490514057.jpg/400x400cc.jpg",
+      "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/19/b2/d3/19b2d3ff-46cf-ca6a-b772-d80470fc4201/8445490514057.jpg/400x400cc.jpg",
+      "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/19/b2/d3/19b2d3ff-46cf-ca6a-b772-d80470fc4201/8445490514057.jpg/400x400cc.jpg",
+      "joecolor": "b:ced8e1p:311b1cs:4d292et:504043q:674c52"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1614380749"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/1b/cc/b7/1bccb77c-04fd-8655-b98e-f38ea85246cb/mzaf_4451319756539965893.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/stay/1614380746?i=1614380749&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/stay/1614380746?i=1614380749&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "mage-the-producer",
+        "id": "42",
+        "adamid": "1570686269"
+      }
+    ],
+    "url": "https://www.shazam.com/track/608171106/stay",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "643677561",
+    "title": "Garri (feat. Funnybros)",
+    "subtitle": "OGB Recent",
+    "share": {
+      "subject": "Garri (feat. Funnybros) - OGB Recent",
+      "text": "I used Shazam to discover Garri (feat. Funnybros) by OGB Recent.",
+      "href": "https://www.shazam.com/track/643677561/garri-feat-funnybros",
+      "image": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/a9/ba/94/a9ba940b-357b-dee3-13f5-1bfa4ad82710/0766214738008.png/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Garri (feat. Funnybros) by OGB Recent.",
+      "html": "https://www.shazam.com/snippets/email-share/643677561?lang=en&country=GB",
+      "snapchat": "https://www.shazam.com/partner/sc/track/643677561"
+    },
+    "images": {
+      "background": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/a9/ba/94/a9ba940b-357b-dee3-13f5-1bfa4ad82710/0766214738008.png/400x400cc.jpg",
+      "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/a9/ba/94/a9ba940b-357b-dee3-13f5-1bfa4ad82710/0766214738008.png/400x400cc.jpg",
+      "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/a9/ba/94/a9ba940b-357b-dee3-13f5-1bfa4ad82710/0766214738008.png/400x400cc.jpg",
+      "joecolor": "b:140f0cp:ecd1a0s:e7c489t:c0aa82q:bca070"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1656687812"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/22/e6/55/22e6558b-b113-0e92-d298-3f780fbb4c9e/mzaf_14954335239556984693.plus.aac.p.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/garri-feat-funnybros/1656687811?i=1656687812&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/garri-feat-funnybros/1656687811?i=1656687812&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "ogb-recent",
+        "id": "42",
+        "adamid": "1614913223"
+      }
+    ],
+    "url": "https://www.shazam.com/track/643677561/garri-feat-funnybros",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "616390940",
+    "title": "soso",
+    "subtitle": "Omah Lay",
+    "share": {
+      "subject": "soso - Omah Lay",
+      "text": "I used Shazam to discover soso by Omah Lay.",
+      "href": "https://www.shazam.com/track/616390940/soso",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b1/77/f7/b177f74e-ff94-ac1f-0317-e0e120178661/093624869191.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover soso by Omah Lay.",
+      "html": "https://www.shazam.com/snippets/email-share/616390940?lang=en&country=GB",
+      "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/5c/29/08/5c2908ff-d607-25dd-fd0d-d32c919b2ac4/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/616390940"
+    },
+    "images": {
+      "background": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/5c/29/08/5c2908ff-d607-25dd-fd0d-d32c919b2ac4/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b1/77/f7/b177f74e-ff94-ac1f-0317-e0e120178661/093624869191.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b1/77/f7/b177f74e-ff94-ac1f-0317-e0e120178661/093624869191.jpg/400x400cc.jpg",
+      "joecolor": "b:cea3fap:1a091es:3d1348t:3e284aq:5a306b"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1624954449"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/17/ef/12/17ef12d8-4561-b22e-922e-5a4de8b77657/mzaf_8018216526304355160.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/soso/1624954180?i=1624954449&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/soso/1624954180?i=1624954449&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "omah-lay",
+        "id": "42",
+        "adamid": "1459319359"
+      }
+    ],
+    "url": "https://www.shazam.com/track/616390940/soso",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "643261104",
+    "title": "Kizz",
+    "subtitle": "Henry sopulu1",
+    "share": {
+      "subject": "Kizz - Henry sopulu1",
+      "text": "I used Shazam to discover Kizz by Henry sopulu1.",
+      "href": "https://www.shazam.com/track/643261104/kizz",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/60/91/51/609151aa-0345-4cb2-b033-41f04653b5fc/artwork.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Kizz by Henry sopulu1.",
+      "html": "https://www.shazam.com/snippets/email-share/643261104?lang=en&country=GB",
+      "snapchat": "https://www.shazam.com/partner/sc/track/643261104"
+    },
+    "images": {
+      "background": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/60/91/51/609151aa-0345-4cb2-b033-41f04653b5fc/artwork.jpg/400x400cc.jpg",
+      "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/60/91/51/609151aa-0345-4cb2-b033-41f04653b5fc/artwork.jpg/400x400cc.jpg",
+      "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/60/91/51/609151aa-0345-4cb2-b033-41f04653b5fc/artwork.jpg/400x400cc.jpg",
+      "joecolor": "b:181413p:f1edecs:d0d0d0t:c6c2c1q:abaaaa"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1656204396"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/14/96/cf/1496cfb5-bcc2-696a-e8ed-c6208e280765/mzaf_5934497591026734897.plus.aac.p.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/kizz/1656204395?i=1656204396&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/kizz/1656204395?i=1656204396&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "henry-sopulu1",
+        "id": "42",
+        "adamid": "1632725807"
+      }
+    ],
+    "url": "https://www.shazam.com/track/643261104/kizz",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "640071088",
+    "title": "Astalavista (feat. Young Jonn)",
+    "subtitle": "Zlatan",
+    "share": {
+      "subject": "Astalavista (feat. Young Jonn) - Zlatan",
+      "text": "I used Shazam to discover Astalavista (feat. Young Jonn) by Zlatan.",
+      "href": "https://www.shazam.com/track/640071088/astalavista-feat-young-jonn",
+      "image": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/e5/14/88/e51488b9-c95e-b710-ff43-5892184b6e02/0.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Astalavista (feat. Young Jonn) by Zlatan.",
+      "html": "https://www.shazam.com/snippets/email-share/640071088?lang=en&country=GB",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b6/42/4a/b6424a7b-3078-1960-ba44-354d96c2d313/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/640071088"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b6/42/4a/b6424a7b-3078-1960-ba44-354d96c2d313/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/e5/14/88/e51488b9-c95e-b710-ff43-5892184b6e02/0.jpg/400x400cc.jpg",
+      "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/e5/14/88/e51488b9-c95e-b710-ff43-5892184b6e02/0.jpg/400x400cc.jpg",
+      "joecolor": "b:050102p:ffffffs:fe0a0at:ccccccq:cc0808"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1652817846"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/27/0b/44/270b449b-eade-fc13-0251-03cf6954c95b/mzaf_2411596093386189054.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/astalavista-feat-young-jonn/1652817845?i=1652817846&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/astalavista-feat-young-jonn/1652817845?i=1652817846&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "zlatan",
+        "id": "42",
+        "adamid": "479932350"
+      }
+    ],
+    "url": "https://www.shazam.com/track/640071088/astalavista-feat-young-jonn",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "639091824",
+    "title": "Astray",
+    "subtitle": "Balloranking",
+    "share": {
+      "subject": "Astray - Balloranking",
+      "text": "I used Shazam to discover Astray by Balloranking.",
+      "href": "https://www.shazam.com/track/639091824/astray",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/c4/1d/6a/c41d6acf-0a57-57ba-93e5-c3dd3256b5d4/0766214737506.png/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Astray by Balloranking.",
+      "html": "https://www.shazam.com/snippets/email-share/639091824?lang=en&country=GB",
+      "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/d9/ae/0d/d9ae0d3b-0211-e137-0f16-7122eb62d310/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/639091824"
+    },
+    "images": {
+      "background": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/d9/ae/0d/d9ae0d3b-0211-e137-0f16-7122eb62d310/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/c4/1d/6a/c41d6acf-0a57-57ba-93e5-c3dd3256b5d4/0766214737506.png/400x400cc.jpg",
+      "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/c4/1d/6a/c41d6acf-0a57-57ba-93e5-c3dd3256b5d4/0766214737506.png/400x400cc.jpg"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:subscribe",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:subscribe",
+              "type": "uri",
+              "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "balloranking",
+        "id": "42",
+        "adamid": "1532678509"
+      }
+    ],
+    "url": "https://www.shazam.com/track/639091824/astray",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "577179983",
+    "title": "NEED ME",
+    "subtitle": "Gyakie",
+    "share": {
+      "subject": "NEED ME - Gyakie",
+      "text": "I used Shazam to discover NEED ME by Gyakie.",
+      "href": "https://www.shazam.com/track/577179983/need-me",
+      "image": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/ac/b1/7a/acb17aa8-a9ce-75f1-d904-2899fdbe5a84/886449440986.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover NEED ME by Gyakie.",
+      "html": "https://www.shazam.com/snippets/email-share/577179983?lang=en&country=GB",
+      "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/9f/d4/85/9fd4858b-1a75-cc62-5f92-206a36a82a9d/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/577179983"
+    },
+    "images": {
+      "background": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/9f/d4/85/9fd4858b-1a75-cc62-5f92-206a36a82a9d/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/ac/b1/7a/acb17aa8-a9ce-75f1-d904-2899fdbe5a84/886449440986.jpg/400x400cc.jpg",
+      "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/ac/b1/7a/acb17aa8-a9ce-75f1-d904-2899fdbe5a84/886449440986.jpg/400x400cc.jpg",
+      "joecolor": "b:c01300p:ffffffs:feaca1t:f2cfcbq:f28d81"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1575923216"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/95/9c/c6/959cc6c0-baff-83d5-8f20-2e04693794a6/mzaf_12468190449222592065.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/need-me/1575923083?i=1575923216&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/need-me/1575923083?i=1575923216&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "gyakie",
+        "id": "42",
+        "adamid": "1448610324"
+      }
+    ],
+    "url": "https://www.shazam.com/track/577179983/need-me",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "643273969",
+    "title": "Traboski",
+    "subtitle": "BNXN fka Buju",
+    "share": {
+      "subject": "Traboski - BNXN fka Buju",
+      "text": "I used Shazam to discover Traboski by BNXN fka Buju.",
+      "href": "https://www.shazam.com/track/643273969/traboski",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/eb/8a/04/eb8a04d5-31f4-ed2f-462d-ec158e1d7453/197342014144_cover.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Traboski by BNXN fka Buju.",
+      "html": "https://www.shazam.com/snippets/email-share/643273969?lang=en&country=GB",
+      "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/81/a2/08/81a208bd-4727-3bfa-627d-369db841595b/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/643273969"
+    },
+    "images": {
+      "background": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/81/a2/08/81a208bd-4727-3bfa-627d-369db841595b/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/eb/8a/04/eb8a04d5-31f4-ed2f-462d-ec158e1d7453/197342014144_cover.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/eb/8a/04/eb8a04d5-31f4-ed2f-462d-ec158e1d7453/197342014144_cover.jpg/400x400cc.jpg",
+      "joecolor": "b:18c7fdp:080519s:091d28t:0b2c47q:0c3f53"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1656225154"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/9d/80/e4/9d80e465-c233-1193-db69-daca18a24368/mzaf_13719012437506307596.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/traboski/1656225152?i=1656225154&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/traboski/1656225152?i=1656225154&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "bnxn-fka-buju",
+        "id": "42",
+        "adamid": "1347142581"
+      }
+    ],
+    "url": "https://www.shazam.com/track/643273969/traboski",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "634998940",
+    "title": "Abracadabra",
+    "subtitle": "Rexxie, Naira Marley & Skiibii",
+    "share": {
+      "subject": "Abracadabra - Rexxie, Naira Marley & Skiibii",
+      "text": "I used Shazam to discover Abracadabra by Rexxie, Naira Marley & Skiibii.",
+      "href": "https://www.shazam.com/track/634998940/abracadabra",
+      "image": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/ae/fc/d1/aefcd1f1-9154-04d8-3595-2253a4ee897a/0757572940295.png/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Abracadabra by Rexxie, Naira Marley & Skiibii.",
+      "html": "https://www.shazam.com/snippets/email-share/634998940?lang=en&country=GB",
+      "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/54/b3/3f/54b33f04-d1be-48ff-9eec-d217e912d0e2/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/634998940"
+    },
+    "images": {
+      "background": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/54/b3/3f/54b33f04-d1be-48ff-9eec-d217e912d0e2/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/ae/fc/d1/aefcd1f1-9154-04d8-3595-2253a4ee897a/0757572940295.png/400x400cc.jpg",
+      "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/ae/fc/d1/aefcd1f1-9154-04d8-3595-2253a4ee897a/0757572940295.png/400x400cc.jpg",
+      "joecolor": "b:0b0b09p:f1c800s:c5c5c2t:c3a201q:a0a09d"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1647643261"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/6d/66/7d/6d667da8-0a86-f00a-8e89-f9ded4cc31a6/mzaf_11579833465340722603.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/abracadabra/1647643259?i=1647643261&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/abracadabra/1647643259?i=1647643261&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "rexxie",
+        "id": "42",
+        "adamid": "1343801589"
+      },
+      {
+        "alias": "naira-marley",
+        "id": "42",
+        "adamid": "847413160"
+      },
+      {
+        "alias": "skiibii",
+        "id": "42",
+        "adamid": "738138655"
+      }
+    ],
+    "url": "https://www.shazam.com/track/634998940/abracadabra",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "632191292",
+    "title": "One Side",
+    "subtitle": "Iyanya",
+    "share": {
+      "subject": "One Side - Iyanya",
+      "text": "I used Shazam to discover One Side by Iyanya.",
+      "href": "https://www.shazam.com/track/632191292/one-side",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/00/cb/59/00cb5959-0082-3343-e2fd-b00df2f37960/5054197376542.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover One Side by Iyanya.",
+      "html": "https://www.shazam.com/snippets/email-share/632191292?lang=en&country=GB",
+      "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/34/60/68/34606832-eaf0-46f8-276b-07c82b6a19f5/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/632191292"
+    },
+    "images": {
+      "background": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/34/60/68/34606832-eaf0-46f8-276b-07c82b6a19f5/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/00/cb/59/00cb5959-0082-3343-e2fd-b00df2f37960/5054197376542.jpg/400x400cc.jpg",
+      "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/00/cb/59/00cb5959-0082-3343-e2fd-b00df2f37960/5054197376542.jpg/400x400cc.jpg",
+      "joecolor": "b:1a0f17p:d5b373s:e38d76t:b09260q:ba7363"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1648583367"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/dc/f2/bb/dcf2bb09-9079-3009-3ede-27fad5405d8a/mzaf_16699724084939842539.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/one-side/1648582658?i=1648583367&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/one-side/1648582658?i=1648583367&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "iyanya",
+        "id": "42",
+        "adamid": "360504820"
+      }
+    ],
+    "url": "https://www.shazam.com/track/632191292/one-side",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "611520549",
+    "title": "Soweto",
+    "subtitle": "Victony & Tempoe",
+    "share": {
+      "subject": "Soweto - Victony & Tempoe",
+      "text": "I used Shazam to discover Soweto by Victony & Tempoe.",
+      "href": "https://www.shazam.com/track/611520549/soweto",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/78/cb/ed/78cbed64-1473-0331-e7f6-0c508ba2ee90/4472.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Soweto by Victony & Tempoe.",
+      "html": "https://www.shazam.com/snippets/email-share/611520549?lang=en&country=GB",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/00/cd/fa/00cdfaed-1106-eed8-fd3a-a19a2ff09c1a/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/611520549"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/00/cd/fa/00cdfaed-1106-eed8-fd3a-a19a2ff09c1a/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/78/cb/ed/78cbed64-1473-0331-e7f6-0c508ba2ee90/4472.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/78/cb/ed/78cbed64-1473-0331-e7f6-0c508ba2ee90/4472.jpg/400x400cc.jpg",
+      "joecolor": "b:de8f71p:000000s:321c19t:2c1c17q:55332b"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1618317928"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/14/ca/1e/14ca1edc-1958-fca6-83cb-174931183aa2/mzaf_10806040960071313745.plus.aac.p.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/soweto/1618317421?i=1618317928&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/soweto/1618317421?i=1618317928&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "victony",
+        "id": "42",
+        "adamid": "1456464026"
+      },
+      {
+        "alias": "tempoe",
+        "id": "42",
+        "adamid": "1582704596"
+      }
+    ],
+    "url": "https://www.shazam.com/track/611520549/soweto",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "633177205",
+    "title": "Otilo (Izz Gone)",
+    "subtitle": "Poco Lee & Hotkid",
+    "share": {
+      "subject": "Otilo (Izz Gone) - Poco Lee & Hotkid",
+      "text": "I used Shazam to discover Otilo (Izz Gone) by Poco Lee & Hotkid.",
+      "href": "https://www.shazam.com/track/633177205/otilo-izz-gone",
+      "image": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/79/f2/f2/79f2f212-a7be-48de-5452-27800700c4fa/194690945953_cover.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Otilo (Izz Gone) by Poco Lee & Hotkid.",
+      "html": "https://www.shazam.com/snippets/email-share/633177205?lang=en&country=GB",
+      "snapchat": "https://www.shazam.com/partner/sc/track/633177205"
+    },
+    "images": {
+      "background": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/79/f2/f2/79f2f212-a7be-48de-5452-27800700c4fa/194690945953_cover.jpg/400x400cc.jpg",
+      "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/79/f2/f2/79f2f212-a7be-48de-5452-27800700c4fa/194690945953_cover.jpg/400x400cc.jpg",
+      "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/79/f2/f2/79f2f212-a7be-48de-5452-27800700c4fa/194690945953_cover.jpg/400x400cc.jpg",
+      "joecolor": "b:08062ep:a3d600s:a2d614t:84ac09q:83ac19"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1645591239"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/82/d8/aa/82d8aa2a-cd7a-f7a9-44a6-72bd53146f00/mzaf_17788274701149353680.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/otilo-izz-gone/1645591234?i=1645591239&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/otilo-izz-gone/1645591234?i=1645591239&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "poco-lee",
+        "id": "42",
+        "adamid": "1481048442"
+      },
+      {
+        "alias": "hotkid",
+        "id": "42",
+        "adamid": "1485110362"
+      }
+    ],
+    "url": "https://www.shazam.com/track/633177205/otilo-izz-gone",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "644018819",
+    "title": "Zotata",
+    "subtitle": "Justin99 & Pcee & Eeque",
+    "share": {
+      "subject": "Zotata - Justin99 & Pcee & Eeque",
+      "text": "I used Shazam to discover Zotata by Justin99 & Pcee & Eeque.",
+      "href": "https://www.shazam.com/track/644018819/zotata",
+      "twitter": "I used @Shazam to discover Zotata by Justin99 & Pcee & Eeque.",
+      "html": "https://www.shazam.com/snippets/email-share/644018819?lang=en&country=GB",
+      "snapchat": "https://www.shazam.com/partner/sc/track/644018819"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:subscribe",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:subscribe",
+              "type": "uri",
+              "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "url": "https://www.shazam.com/track/644018819/zotata",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "636849437",
+    "title": "Faya",
+    "subtitle": "Bad Boy Timz",
+    "share": {
+      "subject": "Faya - Bad Boy Timz",
+      "text": "I used Shazam to discover Faya by Bad Boy Timz.",
+      "href": "https://www.shazam.com/track/636849437/faya",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/da/54/fa/da54fa4f-009f-2647-307b-220ab043fbe9/194690959790_cover.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Faya by Bad Boy Timz.",
+      "html": "https://www.shazam.com/snippets/email-share/636849437?lang=en&country=GB",
+      "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/97/9b/14/979b147b-3453-b5e4-cd7b-7ce87ae81e92/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/636849437"
+    },
+    "images": {
+      "background": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/97/9b/14/979b147b-3453-b5e4-cd7b-7ce87ae81e92/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/da/54/fa/da54fa4f-009f-2647-307b-220ab043fbe9/194690959790_cover.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/da/54/fa/da54fa4f-009f-2647-307b-220ab043fbe9/194690959790_cover.jpg/400x400cc.jpg",
+      "joecolor": "b:fefcefp:000000s:001d0dt:32322fq:324a3a"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1649432846"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/fa/39/df/fa39dfc5-c396-d2bf-8754-4b696b9d43b8/mzaf_11451572744825634502.plus.aac.p.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/faya/1649432334?i=1649432846&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/faya/1649432334?i=1649432846&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "bad-boy-timz",
+        "id": "42",
+        "adamid": "1465204854"
+      }
+    ],
+    "url": "https://www.shazam.com/track/636849437/faya",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "644544392",
+    "title": "She Shines",
+    "subtitle": "Bluenax",
+    "share": {
+      "subject": "She Shines - Bluenax",
+      "text": "I used Shazam to discover She Shines by Bluenax.",
+      "href": "https://www.shazam.com/track/644544392/she-shines",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f3/5e/aa/f35eaae2-772c-768b-e82d-6b8f0d28090d/artwork.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover She Shines by Bluenax.",
+      "html": "https://www.shazam.com/snippets/email-share/644544392?lang=en&country=GB",
+      "snapchat": "https://www.shazam.com/partner/sc/track/644544392"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f3/5e/aa/f35eaae2-772c-768b-e82d-6b8f0d28090d/artwork.jpg/400x400cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f3/5e/aa/f35eaae2-772c-768b-e82d-6b8f0d28090d/artwork.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f3/5e/aa/f35eaae2-772c-768b-e82d-6b8f0d28090d/artwork.jpg/400x400cc.jpg",
+      "joecolor": "b:000000p:fafefds:c1c5bbt:c8cbcaq:9a9e95"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1657831773"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/0b/55/18/0b551897-6fce-006e-b06c-fcea8a7935dc/mzaf_15580254034539776194.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/she-shines/1657831772?i=1657831773&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/she-shines/1657831772?i=1657831773&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "bluenax",
+        "id": "42",
+        "adamid": "1530236138"
+      }
+    ],
+    "url": "https://www.shazam.com/track/644544392/she-shines",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "629903213",
+    "title": "Peace",
+    "subtitle": "MohBad",
+    "share": {
+      "subject": "Peace - MohBad",
+      "text": "I used Shazam to discover Peace by MohBad.",
+      "href": "https://www.shazam.com/track/629903213/peace",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/38/fd/c8/38fdc8ed-1f90-9997-ecc2-21e81ea3f1c0/196925609586.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Peace by MohBad.",
+      "html": "https://www.shazam.com/snippets/email-share/629903213?lang=en&country=GB",
+      "avatar": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/60/0b/9a/600b9aa9-4bba-7e0b-2936-a6f854a7e4e3/044a40d1-2e70-401f-b64a-e8d2ddf59e94_file_cropped.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/629903213"
+    },
+    "images": {
+      "background": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/60/0b/9a/600b9aa9-4bba-7e0b-2936-a6f854a7e4e3/044a40d1-2e70-401f-b64a-e8d2ddf59e94_file_cropped.png/800x800cc.jpg",
+      "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/38/fd/c8/38fdc8ed-1f90-9997-ecc2-21e81ea3f1c0/196925609586.jpg/400x400cc.jpg",
+      "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/38/fd/c8/38fdc8ed-1f90-9997-ecc2-21e81ea3f1c0/196925609586.jpg/400x400cc.jpg",
+      "joecolor": "b:150101p:febc02s:5dccd1t:cf9702q:4fa3a8"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1641900881"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/51/2b/e6/512be60e-08fa-89ef-1c50-9786e1c8f326/mzaf_2333170740178590759.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/peace/1641900871?i=1641900881&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/peace/1641900871?i=1641900881&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "mohbad",
+        "id": "42",
+        "adamid": "1438564180"
+      }
+    ],
+    "url": "https://www.shazam.com/track/629903213/peace",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "640034009",
+    "title": "Alone",
+    "subtitle": "Burna Boy",
+    "share": {
+      "subject": "Alone - Burna Boy",
+      "text": "I used Shazam to discover Alone by Burna Boy.",
+      "href": "https://www.shazam.com/track/640034009/alone",
+      "image": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/e9/a0/16/e9a016aa-a82f-8e67-50b2-f1101e0be964/22UM1IM30248.rgb.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Alone by Burna Boy.",
+      "html": "https://www.shazam.com/snippets/email-share/640034009?lang=en&country=GB",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5f/77/17/5f771752-2a96-11be-8c1f-b8b4050eacac/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/640034009"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5f/77/17/5f771752-2a96-11be-8c1f-b8b4050eacac/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/e9/a0/16/e9a016aa-a82f-8e67-50b2-f1101e0be964/22UM1IM30248.rgb.jpg/400x400cc.jpg",
+      "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/e9/a0/16/e9a016aa-a82f-8e67-50b2-f1101e0be964/22UM1IM30248.rgb.jpg/400x400cc.jpg",
+      "joecolor": "b:040404p:eae2d0s:d8d7dft:bcb5a7q:aeadb3"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1653546264"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/ae/95/14/ae9514e3-e99e-bba8-6488-00c493aba698/mzaf_11209521166475078407.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/alone/1653546033?i=1653546264&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/alone/1653546033?i=1653546264&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "burna-boy",
+        "id": "42",
+        "adamid": "591899010"
+      }
+    ],
+    "url": "https://www.shazam.com/track/640034009/alone",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "629608451",
+    "title": "Rush",
+    "subtitle": "Ayra Starr",
+    "share": {
+      "subject": "Rush - Ayra Starr",
+      "text": "I used Shazam to discover Rush by Ayra Starr.",
+      "href": "https://www.shazam.com/track/629608451/rush",
+      "image": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/b2/af/f2/b2aff242-703a-2d9d-7146-bbf487fe9a49/5059449090122.png/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Rush by Ayra Starr.",
+      "html": "https://www.shazam.com/snippets/email-share/629608451?lang=en&country=GB",
+      "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/44/de/57/44de5739-5e3f-a831-6c1a-289ec3b667ee/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/629608451"
+    },
+    "images": {
+      "background": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/44/de/57/44de5739-5e3f-a831-6c1a-289ec3b667ee/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/b2/af/f2/b2aff242-703a-2d9d-7146-bbf487fe9a49/5059449090122.png/400x400cc.jpg",
+      "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/b2/af/f2/b2aff242-703a-2d9d-7146-bbf487fe9a49/5059449090122.png/400x400cc.jpg",
+      "joecolor": "b:0f1f1ep:f7d55cs:f27e27t:c8b04fq:c56b25"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1642898573"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/74/b4/ce/74b4cefd-7bb0-27f1-70d8-d8ce05a720ef/mzaf_14315726628197405332.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/rush/1642898371?i=1642898573&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/rush/1642898371?i=1642898573&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "ayra-starr",
+        "id": "42",
+        "adamid": "1536429348"
+      }
+    ],
+    "url": "https://www.shazam.com/track/629608451/rush",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "639982228",
+    "title": "Vawulence (feat. BackRoad Gee)",
+    "subtitle": "Naira Marley",
+    "share": {
+      "subject": "Vawulence (feat. BackRoad Gee) - Naira Marley",
+      "text": "I used Shazam to discover Vawulence (feat. BackRoad Gee) by Naira Marley.",
+      "href": "https://www.shazam.com/track/639982228/vawulence-feat-backroad-gee",
+      "image": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/da/90/04/da9004da-aaa7-429b-06e0-2d8266d585f6/197187353767.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Vawulence (feat. BackRoad Gee) by Naira Marley.",
+      "html": "https://www.shazam.com/snippets/email-share/639982228?lang=en&country=GB",
+      "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/28/73/43/287343aa-77eb-03f7-ade9-43e05dc6e245/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/639982228"
+    },
+    "images": {
+      "background": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/28/73/43/287343aa-77eb-03f7-ade9-43e05dc6e245/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/da/90/04/da9004da-aaa7-429b-06e0-2d8266d585f6/197187353767.jpg/400x400cc.jpg",
+      "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/da/90/04/da9004da-aaa7-429b-06e0-2d8266d585f6/197187353767.jpg/400x400cc.jpg",
+      "joecolor": "b:031505p:f0d571s:e58940t:c0ae5bq:b87234"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1652731811"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/62/b6/8a/62b68aaa-37a0-3ce7-6048-9d5fe8542fb9/mzaf_5565502453113287847.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/vawulence-feat-backroad-gee/1652731793?i=1652731811&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/vawulence-feat-backroad-gee/1652731793?i=1652731811&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "naira-marley",
+        "id": "42",
+        "adamid": "847413160"
+      }
+    ],
+    "url": "https://www.shazam.com/track/639982228/vawulence-feat-backroad-gee",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "640106154",
+    "title": "Money",
+    "subtitle": "Boi Chase & Berri-Tiga",
+    "share": {
+      "subject": "Money - Boi Chase & Berri-Tiga",
+      "text": "I used Shazam to discover Money by Boi Chase & Berri-Tiga.",
+      "href": "https://www.shazam.com/track/640106154/money",
+      "image": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/da/eb/31/daeb318c-7a2f-139a-a47f-5c0834d6a7a7/0766214737858.png/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Money by Boi Chase & Berri-Tiga.",
+      "html": "https://www.shazam.com/snippets/email-share/640106154?lang=en&country=GB",
+      "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/ae/20/48/ae2048dc-3316-fd28-4d70-d51186dad0f9/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/640106154"
+    },
+    "images": {
+      "background": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/ae/20/48/ae2048dc-3316-fd28-4d70-d51186dad0f9/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/da/eb/31/daeb318c-7a2f-139a-a47f-5c0834d6a7a7/0766214737858.png/400x400cc.jpg",
+      "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/da/eb/31/daeb318c-7a2f-139a-a47f-5c0834d6a7a7/0766214737858.png/400x400cc.jpg",
+      "joecolor": "b:0e0e0ep:fff6fbs:a8f049t:cec7cbq:89c33d"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1654479357"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/84/4e/04/844e0496-0909-220e-9c27-d6d6ab57038d/mzaf_17169545361824317629.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/money/1654479356?i=1654479357&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/money/1654479356?i=1654479357&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "boi-chase",
+        "id": "42",
+        "adamid": "1591652735"
+      },
+      {
+        "alias": "berri-tiga",
+        "id": "42",
+        "adamid": "1556242581"
+      }
+    ],
+    "url": "https://www.shazam.com/track/640106154/money",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "635190804",
+    "title": "Darling (feat. Simi)",
+    "subtitle": "Seyi Vibez",
+    "share": {
+      "subject": "Darling (feat. Simi) - Seyi Vibez",
+      "text": "I used Shazam to discover Darling (feat. Simi) by Seyi Vibez.",
+      "href": "https://www.shazam.com/track/635190804/darling-feat-simi",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/99/33/0a/99330a8c-30a0-1922-8b54-d9871c454cb1/0766214737032.png/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Darling (feat. Simi) by Seyi Vibez.",
+      "html": "https://www.shazam.com/snippets/email-share/635190804?lang=en&country=GB",
+      "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/fb/91/da/fb91da1d-f1a7-eefe-d0fa-e0c23f4566ce/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/635190804"
+    },
+    "images": {
+      "background": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/fb/91/da/fb91da1d-f1a7-eefe-d0fa-e0c23f4566ce/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/99/33/0a/99330a8c-30a0-1922-8b54-d9871c454cb1/0766214737032.png/400x400cc.jpg",
+      "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/99/33/0a/99330a8c-30a0-1922-8b54-d9871c454cb1/0766214737032.png/400x400cc.jpg",
+      "joecolor": "b:1a1c19p:f7f8f3s:d7daebt:cbccc7q:b1b4c1"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1647843786"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/ef/1f/a8/ef1fa815-6849-207a-4390-61be0accaa8a/mzaf_3876338255524041505.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/darling-feat-simi/1647843784?i=1647843786&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/darling-feat-simi/1647843784?i=1647843786&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "seyi-vibez",
+        "id": "42",
+        "adamid": "1466080951"
+      }
+    ],
+    "url": "https://www.shazam.com/track/635190804/darling-feat-simi",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "624731058",
+    "title": "Hamba Wena",
+    "subtitle": "Deep London & Boohle",
+    "share": {
+      "subject": "Hamba Wena - Deep London & Boohle",
+      "text": "I used Shazam to discover Hamba Wena by Deep London & Boohle.",
+      "href": "https://www.shazam.com/track/624731058/hamba-wena",
+      "image": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/29/d3/aa/29d3aac2-9971-d559-dd72-a0e74b87b5e1/6009553417222_Cover.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Hamba Wena by Deep London & Boohle.",
+      "html": "https://www.shazam.com/snippets/email-share/624731058?lang=en&country=GB",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/d1/39/e5d139d6-1613-b463-1c7c-5d461df5d653/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/624731058"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/d1/39/e5d139d6-1613-b463-1c7c-5d461df5d653/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/29/d3/aa/29d3aac2-9971-d559-dd72-a0e74b87b5e1/6009553417222_Cover.jpg/400x400cc.jpg",
+      "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/29/d3/aa/29d3aac2-9971-d559-dd72-a0e74b87b5e1/6009553417222_Cover.jpg/400x400cc.jpg",
+      "joecolor": "b:000000p:e8f19es:90bbf2t:bac17fq:7395c2"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1635966205"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/43/3c/3f/433c3f3d-9eb7-3974-7d2e-df47e9641ca2/mzaf_16709125940419909456.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/hamba-wena/1635966199?i=1635966205&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/hamba-wena/1635966199?i=1635966205&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "deep-london",
+        "id": "42",
+        "adamid": "1510027615"
+      },
+      {
+        "alias": "boohle",
+        "id": "42",
+        "adamid": "1417925097"
+      }
+    ],
+    "url": "https://www.shazam.com/track/624731058/hamba-wena",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "622442662",
+    "title": "Attention",
+    "subtitle": "Soundz",
+    "share": {
+      "subject": "Attention - Soundz",
+      "text": "I used Shazam to discover Attention by Soundz.",
+      "href": "https://www.shazam.com/track/622442662/attention",
+      "image": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/4c/39/85/4c3985cc-c49b-f0cd-fbf7-3ef79bf5bc40/850040425918.png/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Attention by Soundz.",
+      "html": "https://www.shazam.com/snippets/email-share/622442662?lang=en&country=GB",
+      "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/c2/3c/b6/c23cb679-841e-a5df-bdbd-19078d045851/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/622442662"
+    },
+    "images": {
+      "background": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/c2/3c/b6/c23cb679-841e-a5df-bdbd-19078d045851/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/4c/39/85/4c3985cc-c49b-f0cd-fbf7-3ef79bf5bc40/850040425918.png/400x400cc.jpg",
+      "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/4c/39/85/4c3985cc-c49b-f0cd-fbf7-3ef79bf5bc40/850040425918.png/400x400cc.jpg",
+      "joecolor": "b:b39751p:000000s:330410t:231e10q:4c221d"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1633339510"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/18/e9/91/18e991ca-aee5-7838-e46b-dec0dafc93df/mzaf_18366566180670913707.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/attention/1633339508?i=1633339510&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/attention/1633339508?i=1633339510&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "soundz",
+        "id": "42",
+        "adamid": "205705997"
+      }
+    ],
+    "url": "https://www.shazam.com/track/622442662/attention",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "640329223",
+    "title": "Cashout",
+    "subtitle": "Harteez",
+    "share": {
+      "subject": "Cashout - Harteez",
+      "text": "I used Shazam to discover Cashout by Harteez.",
+      "href": "https://www.shazam.com/track/640329223/cashout",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/bc/8f/be/bc8fbe3d-e0c6-d71f-a202-d48bd9d6f332/artwork.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Cashout by Harteez.",
+      "html": "https://www.shazam.com/snippets/email-share/640329223?lang=en&country=GB",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0c/17/9a/0c179aca-6ccc-6ffa-58fb-3dfaa1be97eb/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/640329223"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0c/17/9a/0c179aca-6ccc-6ffa-58fb-3dfaa1be97eb/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/bc/8f/be/bc8fbe3d-e0c6-d71f-a202-d48bd9d6f332/artwork.jpg/400x400cc.jpg",
+      "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/bc/8f/be/bc8fbe3d-e0c6-d71f-a202-d48bd9d6f332/artwork.jpg/400x400cc.jpg",
+      "joecolor": "b:593366p:e7e5f1s:dd97d8t:cbc1d5q:c383c1"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1653105722"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/70/15/b5/7015b53e-e457-de35-8aa8-c35127e322b4/mzaf_11221150594812205732.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/cashout/1653105720?i=1653105722&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/cashout/1653105720?i=1653105722&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "harteez",
+        "id": "42",
+        "adamid": "1458578962"
+      }
+    ],
+    "url": "https://www.shazam.com/track/640329223/cashout",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "498502624",
+    "title": "Under The Influence",
+    "subtitle": "Chris Brown",
+    "share": {
+      "subject": "Under The Influence - Chris Brown",
+      "text": "I used Shazam to discover Under The Influence by Chris Brown.",
+      "href": "https://www.shazam.com/track/498502624/under-the-influence",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/97/ec/96/97ec963b-8829-f040-fe40-508069d6044b/196589418449.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Under The Influence by Chris Brown.",
+      "html": "https://www.shazam.com/snippets/email-share/498502624?lang=en&country=GB",
+      "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/54/ca/43/54ca4321-8c0b-099e-f552-950a40a2a899/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/498502624"
+    },
+    "images": {
+      "background": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/54/ca/43/54ca4321-8c0b-099e-f552-950a40a2a899/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/97/ec/96/97ec963b-8829-f040-fe40-508069d6044b/196589418449.jpg/400x400cc.jpg",
+      "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/97/ec/96/97ec963b-8829-f040-fe40-508069d6044b/196589418449.jpg/400x400cc.jpg",
+      "joecolor": "b:000000p:ffffffs:f63710t:cbcbcbq:c42c0d"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1643756110"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/8f/15/a9/8f15a986-0cd0-4804-5335-85afddb45ec6/mzaf_842264860529529074.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/under-the-influence/1643755888?i=1643756110&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/under-the-influence/1643755888?i=1643756110&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "chris-brown",
+        "id": "42",
+        "adamid": "95705522"
+      }
+    ],
+    "url": "https://www.shazam.com/track/498502624/under-the-influence",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "635256307",
+    "title": "Chance (Na Ham)",
+    "subtitle": "Seyi Vibez",
+    "share": {
+      "subject": "Chance (Na Ham) - Seyi Vibez",
+      "text": "I used Shazam to discover Chance (Na Ham) by Seyi Vibez.",
+      "href": "https://www.shazam.com/track/635256307/chance-na-ham",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/99/33/0a/99330a8c-30a0-1922-8b54-d9871c454cb1/0766214737032.png/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Chance (Na Ham) by Seyi Vibez.",
+      "html": "https://www.shazam.com/snippets/email-share/635256307?lang=en&country=GB",
+      "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/fb/91/da/fb91da1d-f1a7-eefe-d0fa-e0c23f4566ce/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/635256307"
+    },
+    "images": {
+      "background": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/fb/91/da/fb91da1d-f1a7-eefe-d0fa-e0c23f4566ce/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/99/33/0a/99330a8c-30a0-1922-8b54-d9871c454cb1/0766214737032.png/400x400cc.jpg",
+      "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/99/33/0a/99330a8c-30a0-1922-8b54-d9871c454cb1/0766214737032.png/400x400cc.jpg",
+      "joecolor": "b:1a1c19p:f7f8f3s:d7daebt:cbccc7q:b1b4c1"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1647843789"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/25/53/7e/25537e3a-2264-1136-f11b-4b53916523b4/mzaf_2287004218163605405.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/chance-na-ham/1647843784?i=1647843789&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/chance-na-ham/1647843784?i=1647843789&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "seyi-vibez",
+        "id": "42",
+        "adamid": "1466080951"
+      }
+    ],
+    "url": "https://www.shazam.com/track/635256307/chance-na-ham",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "635011636",
+    "title": "Dont Run",
+    "subtitle": "Dj Yogoyow & Oba Solomon",
+    "share": {
+      "subject": "Dont Run - Dj Yogoyow & Oba Solomon",
+      "text": "I used Shazam to discover Dont Run by Dj Yogoyow & Oba Solomon.",
+      "href": "https://www.shazam.com/track/635011636/dont-run",
+      "image": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/83/69/ea/8369ea9c-94f9-7364-e66f-ea8e23f89e1e/8720765236668.png/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Dont Run by Dj Yogoyow & Oba Solomon.",
+      "html": "https://www.shazam.com/snippets/email-share/635011636?lang=en&country=GB",
+      "snapchat": "https://www.shazam.com/partner/sc/track/635011636"
+    },
+    "images": {
+      "background": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/83/69/ea/8369ea9c-94f9-7364-e66f-ea8e23f89e1e/8720765236668.png/400x400cc.jpg",
+      "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/83/69/ea/8369ea9c-94f9-7364-e66f-ea8e23f89e1e/8720765236668.png/400x400cc.jpg",
+      "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/83/69/ea/8369ea9c-94f9-7364-e66f-ea8e23f89e1e/8720765236668.png/400x400cc.jpg",
+      "joecolor": "b:424242p:f8f8f8s:d6d6d6t:d3d3d3q:b8b8b8"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1647831348"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/2c/97/9e/2c979e91-274d-e058-4677-002b07d79c8d/mzaf_3023487296885335647.plus.aac.p.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/dont-run/1647831347?i=1647831348&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/dont-run/1647831347?i=1647831348&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "dj-yogoyow",
+        "id": "42",
+        "adamid": "1640466640"
+      },
+      {
+        "alias": "oba-solomon",
+        "id": "42",
+        "adamid": "1608378398"
+      }
+    ],
+    "url": "https://www.shazam.com/track/635011636/dont-run",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "637652141",
+    "title": "Loaded",
+    "subtitle": "Tiwa Savage & Asake",
+    "share": {
+      "subject": "Loaded - Tiwa Savage & Asake",
+      "text": "I used Shazam to discover Loaded by Tiwa Savage & Asake.",
+      "href": "https://www.shazam.com/track/637652141/loaded",
+      "image": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/1f/33/48/1f3348fa-e129-1748-604d-23d5a8491a44/194690964336_cover.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Loaded by Tiwa Savage & Asake.",
+      "html": "https://www.shazam.com/snippets/email-share/637652141?lang=en&country=GB",
+      "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/55/b9/2a/55b92a5d-0117-57e1-726d-b34bc2365638/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/637652141"
+    },
+    "images": {
+      "background": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/55/b9/2a/55b92a5d-0117-57e1-726d-b34bc2365638/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/1f/33/48/1f3348fa-e129-1748-604d-23d5a8491a44/194690964336_cover.jpg/400x400cc.jpg",
+      "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/1f/33/48/1f3348fa-e129-1748-604d-23d5a8491a44/194690964336_cover.jpg/400x400cc.jpg",
+      "joecolor": "b:0d1518p:fef4e8s:f6ae6ct:cec7beq:c7905b"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1650286859"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/2f/61/dd/2f61ddd5-8387-a233-3c12-7da105dc5808/mzaf_14470070219437854763.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/loaded/1650286846?i=1650286859&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/loaded/1650286846?i=1650286859&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "tiwa-savage",
+        "id": "42",
+        "adamid": "324225716"
+      },
+      {
+        "alias": "asake",
+        "id": "42",
+        "adamid": "1436064480"
+      }
+    ],
+    "url": "https://www.shazam.com/track/637652141/loaded",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "636221067",
+    "title": "Cough (Odo)",
+    "subtitle": "Kizz Daniel",
+    "share": {
+      "subject": "Cough (Odo) - Kizz Daniel",
+      "text": "I used Shazam to discover Cough (Odo) by Kizz Daniel.",
+      "href": "https://www.shazam.com/track/636221067/cough-odo",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/da/54/fa/da54fa4f-009f-2647-307b-220ab043fbe9/194690959790_cover.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Cough (Odo) by Kizz Daniel.",
+      "html": "https://www.shazam.com/snippets/email-share/636221067?lang=en&country=GB",
+      "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/77/f2/7c/77f27cf1-0c2e-1c21-b652-d7167396ec83/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/636221067"
+    },
+    "images": {
+      "background": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/77/f2/7c/77f27cf1-0c2e-1c21-b652-d7167396ec83/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/da/54/fa/da54fa4f-009f-2647-307b-220ab043fbe9/194690959790_cover.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/da/54/fa/da54fa4f-009f-2647-307b-220ab043fbe9/194690959790_cover.jpg/400x400cc.jpg",
+      "joecolor": "b:fefcefp:000000s:001d0dt:32322fq:324a3a"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1649432597"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/dc/97/19/dc9719ce-37d2-eeea-a2f0-67caa69bd9ae/mzaf_14505034876458569933.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/cough-odo/1649432334?i=1649432597&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/cough-odo/1649432334?i=1649432597&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "kizz-daniel",
+        "id": "42",
+        "adamid": "981220084"
+      }
+    ],
+    "url": "https://www.shazam.com/track/636221067/cough-odo",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "527481128",
+    "title": "Sponono (feat. Wizkid, Burna Boy, Cassper Nyovest & Madumane)",
+    "subtitle": "Kabza De Small",
+    "share": {
+      "subject": "Sponono (feat. Wizkid, Burna Boy, Cassper Nyovest & Madumane) - Kabza De Small",
+      "text": "I used Shazam to discover Sponono (feat. Wizkid, Burna Boy, Cassper Nyovest & Madumane) by Kabza De Small.",
+      "href": "https://www.shazam.com/track/527481128/sponono-feat-wizkid-burna-boy-cassper-nyovest-madumane",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/6e/3f/49/6e3f49c5-5715-cd88-1735-f655b736f858/Kabza_De_Small_-_I_am_the_King_of_Amapiano_3000x3000.png/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Sponono (feat. Wizkid, Burna Boy, Cassper Nyovest & Madumane) by Kabza De Small.",
+      "html": "https://www.shazam.com/snippets/email-share/527481128?lang=en&country=GB",
+      "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/ce/c1/52/cec15279-5739-ada7-cc3e-219a7e26ac34/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/527481128"
+    },
+    "images": {
+      "background": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/ce/c1/52/cec15279-5739-ada7-cc3e-219a7e26ac34/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/6e/3f/49/6e3f49c5-5715-cd88-1735-f655b736f858/Kabza_De_Small_-_I_am_the_King_of_Amapiano_3000x3000.png/400x400cc.jpg",
+      "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/6e/3f/49/6e3f49c5-5715-cd88-1735-f655b736f858/Kabza_De_Small_-_I_am_the_King_of_Amapiano_3000x3000.png/400x400cc.jpg",
+      "joecolor": "b:b49953p:000000s:271e2ct:241e10q:433733"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1520468816"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b2/9f/14/b29f146c-d0c6-526b-5469-86ad17f288ce/mzaf_7795304896415386601.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/sponono-feat-wizkid-burna-boy-cassper-nyovest-madumane/1520468797?i=1520468816&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/sponono-feat-wizkid-burna-boy-cassper-nyovest-madumane/1520468797?i=1520468816&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "kabza-de-small",
+        "id": "42",
+        "adamid": "1021730955"
+      }
+    ],
+    "url": "https://www.shazam.com/track/527481128/sponono-feat-wizkid-burna-boy-cassper-nyovest-madumane",
+    "highlightsurls": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "639012260",
+    "title": "2 Sugar (feat. Ayra Starr)",
+    "subtitle": "Wizkid",
+    "share": {
+      "subject": "2 Sugar (feat. Ayra Starr) - Wizkid",
+      "text": "I used Shazam to discover 2 Sugar (feat. Ayra Starr) by Wizkid.",
+      "href": "https://www.shazam.com/track/639012260/2-sugar-feat-ayra-starr",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a9/3f/f5/a93ff5e8-5c00-607a-4851-3aae9b356a64/196589495877.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover 2 Sugar (feat. Ayra Starr) by Wizkid.",
+      "html": "https://www.shazam.com/snippets/email-share/639012260?lang=en&country=GB",
+      "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features126/v4/e7/4e/be/e74ebe95-ed46-27bb-b4a4-1d0f847cf3ff/mza_12438118465786520848.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/639012260"
+    },
+    "images": {
+      "background": "https://is2-ssl.mzstatic.com/image/thumb/Features126/v4/e7/4e/be/e74ebe95-ed46-27bb-b4a4-1d0f847cf3ff/mza_12438118465786520848.png/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a9/3f/f5/a93ff5e8-5c00-607a-4851-3aae9b356a64/196589495877.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a9/3f/f5/a93ff5e8-5c00-607a-4851-3aae9b356a64/196589495877.jpg/400x400cc.jpg",
+      "joecolor": "b:5b15d3p:fec4ffs:fe5ef2t:dda0f6q:de4fec"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1651723506"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/af/b4/74/afb474ae-c1d6-084f-c5cf-62696d84eeed/mzaf_3022159369854384621.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/2-sugar-feat-ayra-starr/1651723071?i=1651723506&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/2-sugar-feat-ayra-starr/1651723071?i=1651723506&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "wizkid",
+        "id": "42",
+        "adamid": "309335750"
+      }
+    ],
+    "url": "https://www.shazam.com/track/639012260/2-sugar-feat-ayra-starr",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "631589222",
+    "title": "Philo",
+    "subtitle": "Bella Shmurda & Omah Lay",
+    "share": {
+      "subject": "Philo - Bella Shmurda & Omah Lay",
+      "text": "I used Shazam to discover Philo by Bella Shmurda & Omah Lay.",
+      "href": "https://www.shazam.com/track/631589222/philo",
+      "image": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/e9/a5/74/e9a5740a-e61f-2c41-40e9-af8aaab90197/0.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Philo by Bella Shmurda & Omah Lay.",
+      "html": "https://www.shazam.com/snippets/email-share/631589222?lang=en&country=GB",
+      "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/c1/b0/c4/c1b0c478-cd80-b930-74bc-f8ab5d74bc57/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/631589222"
+    },
+    "images": {
+      "background": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/c1/b0/c4/c1b0c478-cd80-b930-74bc-f8ab5d74bc57/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/e9/a5/74/e9a5740a-e61f-2c41-40e9-af8aaab90197/0.jpg/400x400cc.jpg",
+      "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/e9/a5/74/e9a5740a-e61f-2c41-40e9-af8aaab90197/0.jpg/400x400cc.jpg",
+      "joecolor": "b:2c0900p:ed9c18s:e87b03t:c77f13q:c26502"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1647422113"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/83/eb/80/83eb8015-4d78-d269-c773-2c74aea7b241/mzaf_13478001479857556208.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/philo/1647422092?i=1647422113&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/philo/1647422092?i=1647422113&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "bella-shmurda",
+        "id": "42",
+        "adamid": "1455517405"
+      },
+      {
+        "alias": "omah-lay",
+        "id": "42",
+        "adamid": "1459319359"
+      }
+    ],
+    "url": "https://www.shazam.com/track/631589222/philo",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "622155523",
+    "title": "Daddy wey dey Pamper (feat. Lyrical HI)",
+    "subtitle": "Moses Bliss",
+    "share": {
+      "subject": "Daddy wey dey Pamper (feat. Lyrical HI) - Moses Bliss",
+      "text": "I used Shazam to discover Daddy wey dey Pamper (feat. Lyrical HI) by Moses Bliss.",
+      "href": "https://www.shazam.com/track/622155523/daddy-wey-dey-pamper-feat-lyrical-hi",
+      "image": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/08/6d/f4/086df405-7953-d4c5-3c6e-a2be816c2026/artwork.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Daddy wey dey Pamper (feat. Lyrical HI) by Moses Bliss.",
+      "html": "https://www.shazam.com/snippets/email-share/622155523?lang=en&country=GB",
+      "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/fe/f3/c4/fef3c475-c64c-14d5-a5a3-0c235d5931f2/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/622155523"
+    },
+    "images": {
+      "background": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/fe/f3/c4/fef3c475-c64c-14d5-a5a3-0c235d5931f2/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/08/6d/f4/086df405-7953-d4c5-3c6e-a2be816c2026/artwork.jpg/400x400cc.jpg",
+      "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/08/6d/f4/086df405-7953-d4c5-3c6e-a2be816c2026/artwork.jpg/400x400cc.jpg",
+      "joecolor": "b:0c0a15p:fdffces:c18fdbt:cccda8q:9d75b3"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1632815360"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/92/d7/8b/92d78be7-09a4-8fec-3ec0-ce116b80b9d0/mzaf_9240235995089792164.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/daddy-wey-dey-pamper-feat-lyrical-hi/1632815359?i=1632815360&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/daddy-wey-dey-pamper-feat-lyrical-hi/1632815359?i=1632815360&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "moses-bliss",
+        "id": "42",
+        "adamid": "1205461661"
+      }
+    ],
+    "url": "https://www.shazam.com/track/622155523/daddy-wey-dey-pamper-feat-lyrical-hi",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "625572175",
+    "title": "Caution",
+    "subtitle": "Shoday",
+    "share": {
+      "subject": "Caution - Shoday",
+      "text": "I used Shazam to discover Caution by Shoday.",
+      "href": "https://www.shazam.com/track/625572175/caution",
+      "image": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/bb/11/19/bb111934-e622-fe20-e5b7-053ad66b6534/artwork.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Caution by Shoday.",
+      "html": "https://www.shazam.com/snippets/email-share/625572175?lang=en&country=GB",
+      "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/b2/a9/9d/b2a99d17-b6d4-64cc-dcfd-ef973cada37c/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/625572175"
+    },
+    "images": {
+      "background": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/b2/a9/9d/b2a99d17-b6d4-64cc-dcfd-ef973cada37c/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/bb/11/19/bb111934-e622-fe20-e5b7-053ad66b6534/artwork.jpg/400x400cc.jpg",
+      "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/bb/11/19/bb111934-e622-fe20-e5b7-053ad66b6534/artwork.jpg/400x400cc.jpg",
+      "joecolor": "b:dd839cp:100e0ds:2f1d21t:392529q:52313a"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1636798602"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/33/4e/c5/334ec5a5-be92-2ca4-02a8-0d3863161ad1/mzaf_13879262078493634413.plus.aac.p.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/caution/1636798601?i=1636798602&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/caution/1636798601?i=1636798602&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "shoday",
+        "id": "42",
+        "adamid": "1592883497"
+      }
+    ],
+    "url": "https://www.shazam.com/track/625572175/caution",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "633196603",
+    "title": "Oh Paradise",
+    "subtitle": "Black Sherif",
+    "share": {
+      "subject": "Oh Paradise - Black Sherif",
+      "text": "I used Shazam to discover Oh Paradise by Black Sherif.",
+      "href": "https://www.shazam.com/track/633196603/oh-paradise",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/73/16/88/73168899-de60-6429-b70b-6de58aefe55e/194690942938_cover.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Oh Paradise by Black Sherif.",
+      "html": "https://www.shazam.com/snippets/email-share/633196603?lang=en&country=GB",
+      "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/ec/87/b1/ec87b13d-b017-3837-5793-e9116985a988/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/633196603"
+    },
+    "images": {
+      "background": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/ec/87/b1/ec87b13d-b017-3837-5793-e9116985a988/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/73/16/88/73168899-de60-6429-b70b-6de58aefe55e/194690942938_cover.jpg/400x400cc.jpg",
+      "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/73/16/88/73168899-de60-6429-b70b-6de58aefe55e/194690942938_cover.jpg/400x400cc.jpg",
+      "joecolor": "b:191e1ap:fbedc6s:f44725t:cec4a3q:c83f22"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1645610174"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/4a/b9/84/4ab98433-0d3d-9c87-0772-9bb8f865ed81/mzaf_8828053708634688820.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/oh-paradise/1645609301?i=1645610174&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/oh-paradise/1645609301?i=1645610174&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "black-sherif",
+        "id": "42",
+        "adamid": "1485819772"
+      }
+    ],
+    "url": "https://www.shazam.com/track/633196603/oh-paradise",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "640899950",
+    "title": "Weekend",
+    "subtitle": "MohBad & Imole",
+    "share": {
+      "subject": "Weekend - MohBad & Imole",
+      "text": "I used Shazam to discover Weekend by MohBad & Imole.",
+      "href": "https://www.shazam.com/track/640899950/weekend",
+      "image": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/6f/f0/52/6ff0526e-5d33-5ebe-2481-f6f0cf303b51/0.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Weekend by MohBad & Imole.",
+      "html": "https://www.shazam.com/snippets/email-share/640899950?lang=en&country=GB",
+      "avatar": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/60/0b/9a/600b9aa9-4bba-7e0b-2936-a6f854a7e4e3/044a40d1-2e70-401f-b64a-e8d2ddf59e94_file_cropped.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/640899950"
+    },
+    "images": {
+      "background": "https://is4-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/60/0b/9a/600b9aa9-4bba-7e0b-2936-a6f854a7e4e3/044a40d1-2e70-401f-b64a-e8d2ddf59e94_file_cropped.png/800x800cc.jpg",
+      "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/6f/f0/52/6ff0526e-5d33-5ebe-2481-f6f0cf303b51/0.jpg/400x400cc.jpg",
+      "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/6f/f0/52/6ff0526e-5d33-5ebe-2481-f6f0cf303b51/0.jpg/400x400cc.jpg",
+      "joecolor": "b:541872p:00ff76s:3fcdb1t:10d075q:43a9a4"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1653773083"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/f6/ff/17/f6ff172c-1dae-77f6-373f-78255631298d/mzaf_4014880409087738837.plus.aac.p.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/weekend/1653773082?i=1653773083&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/weekend/1653773082?i=1653773083&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "mohbad",
+        "id": "42",
+        "adamid": "1438564180"
+      },
+      {
+        "alias": "imole",
+        "id": "42",
+        "adamid": "1456642322"
+      }
+    ],
+    "url": "https://www.shazam.com/track/640899950/weekend",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "606005673",
+    "title": "Dry Wave (feat. King Tone SA & Soa mattrix)",
+    "subtitle": "JFS music",
+    "share": {
+      "subject": "Dry Wave (feat. King Tone SA & Soa mattrix) - JFS music",
+      "text": "I used Shazam to discover Dry Wave (feat. King Tone SA & Soa mattrix) by JFS music.",
+      "href": "https://www.shazam.com/track/606005673/dry-wave-feat-king-tone-sa-soa-mattrix",
+      "image": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/a5/0e/6c/a50e6c49-cbbb-28c3-d624-809ca0470845/6009553411534_Cover.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Dry Wave (feat. King Tone SA & Soa mattrix) by JFS music.",
+      "html": "https://www.shazam.com/snippets/email-share/606005673?lang=en&country=GB",
+      "snapchat": "https://www.shazam.com/partner/sc/track/606005673"
+    },
+    "images": {
+      "background": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/a5/0e/6c/a50e6c49-cbbb-28c3-d624-809ca0470845/6009553411534_Cover.jpg/400x400cc.jpg",
+      "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/a5/0e/6c/a50e6c49-cbbb-28c3-d624-809ca0470845/6009553411534_Cover.jpg/400x400cc.jpg",
+      "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/a5/0e/6c/a50e6c49-cbbb-28c3-d624-809ca0470845/6009553411534_Cover.jpg/400x400cc.jpg",
+      "joecolor": "b:0e0000p:f6f5fas:a9e5f2t:c8c4c8q:8ab7c2"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1614838068"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b1/89/85/b18985d9-54c2-a2c3-28e4-4dfc427baa91/mzaf_1862584283663030065.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/dry-wave-feat-king-tone-sa-soa-mattrix/1614838067?i=1614838068&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/dry-wave-feat-king-tone-sa-soa-mattrix/1614838067?i=1614838068&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "jfs-music",
+        "id": "42",
+        "adamid": "1611636516"
+      }
+    ],
+    "url": "https://www.shazam.com/track/606005673/dry-wave-feat-king-tone-sa-soa-mattrix",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "638401757",
+    "title": "Puff Puff Pass (feat. Falz)",
+    "subtitle": "Priesst",
+    "share": {
+      "subject": "Puff Puff Pass (feat. Falz) - Priesst",
+      "text": "I used Shazam to discover Puff Puff Pass (feat. Falz) by Priesst.",
+      "href": "https://www.shazam.com/track/638401757/puff-puff-pass-feat-falz",
+      "image": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/2e/fb/38/2efb38ee-025b-e320-b702-4cce07d2b8a7/artwork.jpg/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Puff Puff Pass (feat. Falz) by Priesst.",
+      "html": "https://www.shazam.com/snippets/email-share/638401757?lang=en&country=GB",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages122/v4/43/81/66/43816638-8e12-1267-9b61-e09b9e5b0ffe/ffc8695a-5882-41c5-a1ff-8fab8bc00b3d_file_cropped.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/638401757"
+    },
+    "images": {
+      "background": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages122/v4/43/81/66/43816638-8e12-1267-9b61-e09b9e5b0ffe/ffc8695a-5882-41c5-a1ff-8fab8bc00b3d_file_cropped.png/800x800cc.jpg",
+      "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/2e/fb/38/2efb38ee-025b-e320-b702-4cce07d2b8a7/artwork.jpg/400x400cc.jpg",
+      "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/2e/fb/38/2efb38ee-025b-e320-b702-4cce07d2b8a7/artwork.jpg/400x400cc.jpg",
+      "joecolor": "b:c5ced5p:001528s:0a1f36t:273a4bq:304255"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1651076735"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/18/50/55/185055bf-fcc4-69cf-62c2-149d27f90fb6/mzaf_12477687167640313452.plus.aac.ep.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/puff-puff-pass-feat-falz/1651076731?i=1651076735&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/puff-puff-pass-feat-falz/1651076731?i=1651076735&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": true,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "priesst",
+        "id": "42",
+        "adamid": "1594946332"
+      }
+    ],
+    "url": "https://www.shazam.com/track/638401757/puff-puff-pass-feat-falz",
+    "highlightsurls": {},
+    "properties": {}
+  },
+  {
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "635190810",
+    "title": "Ife",
+    "subtitle": "Seyi Vibez",
+    "share": {
+      "subject": "Ife - Seyi Vibez",
+      "text": "I used Shazam to discover Ife by Seyi Vibez.",
+      "href": "https://www.shazam.com/track/635190810/ife",
+      "image": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/99/33/0a/99330a8c-30a0-1922-8b54-d9871c454cb1/0766214737032.png/400x400cc.jpg",
+      "twitter": "I used @Shazam to discover Ife by Seyi Vibez.",
+      "html": "https://www.shazam.com/snippets/email-share/635190810?lang=en&country=GB",
+      "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/fb/91/da/fb91da1d-f1a7-eefe-d0fa-e0c23f4566ce/pr_source.png/800x800cc.jpg",
+      "snapchat": "https://www.shazam.com/partner/sc/track/635190810"
+    },
+    "images": {
+      "background": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/fb/91/da/fb91da1d-f1a7-eefe-d0fa-e0c23f4566ce/pr_source.png/800x800cc.jpg",
+      "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/99/33/0a/99330a8c-30a0-1922-8b54-d9871c454cb1/0766214737032.png/400x400cc.jpg",
+      "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/99/33/0a/99330a8c-30a0-1922-8b54-d9871c454cb1/0766214737032.png/400x400cc.jpg",
+      "joecolor": "b:1a1c19p:f7f8f3s:d7daebt:cbccc7q:b1b4c1"
+    },
+    "hub": {
+      "type": "APPLEMUSIC",
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+      "actions": [
+        {
+          "name": "apple",
+          "type": "applemusicplay",
+          "id": "1647843787"
+        },
+        {
+          "name": "apple",
+          "type": "uri",
+          "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/fc/13/ff/fc13ffc6-a8cc-c1bb-00ab-9d56f41c57f4/mzaf_7723415349785103475.plus.aac.p.m4a"
+        }
+      ],
+      "options": [
+        {
+          "caption": "OPEN",
+          "actions": [
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "applemusicopen",
+              "uri": "https://music.apple.com/gb/album/ife/1647843784?i=1647843787&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            },
+            {
+              "name": "hub:applemusic:deeplink",
+              "type": "uri",
+              "uri": "https://music.apple.com/gb/album/ife/1647843784?i=1647843787&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+            }
+          ],
+          "beacondata": {
+            "type": "open",
+            "providername": "applemusic"
+          },
+          "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+          "type": "open",
+          "listcaption": "Open in Apple Music",
+          "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+          "colouroverflowimage": false,
+          "providername": "applemusic"
+        }
+      ],
+      "explicit": false,
+      "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+      {
+        "alias": "seyi-vibez",
+        "id": "42",
+        "adamid": "1466080951"
+      }
+    ],
+    "url": "https://www.shazam.com/track/635190810/ife",
+    "highlightsurls": {},
+    "properties": {}
+  }
+]

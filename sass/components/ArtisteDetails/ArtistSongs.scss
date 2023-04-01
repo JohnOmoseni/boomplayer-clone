@@ -1,0 +1,60 @@
+@use '../../abstracts/' as *;
+@use "../../helpers/CardTemplate.scss" as *;
+@use "../../helpers/ListRow.scss" as *;
+
+@mixin Artiste-songs() {
+   .artiste-songs {
+      @include flex-column();
+      align-items: stretch;
+      gap: $pad-400;
+      position: relative;
+      margin-top: -10vh;
+      background: inherit;
+
+      padding-block: $pad-300;
+      z-index: 1;
+      border-radius: 20px 20px 0 0;
+      transform: translateZ(0);
+
+      .releases {
+         position: relative;
+
+         .artiste-tracks {
+            padding: $pad-200 $pad-300;
+            width: 100%;
+
+            display: grid;
+            grid-auto-flow: column;
+            grid-auto-columns: minmax(160px, 1fr);
+            gap: $pad-300;
+            overflow-x: auto;
+            overscroll-behavior-inline: contain;
+
+            @include card-template(140px);
+
+            .card-template>* {
+               cursor: auto;
+            }
+
+            .title {
+               font-size: $fs-350;
+            }
+
+            .subtitle {
+               color: var(--grey-txt-200)
+            }
+         }
+      }
+
+      .songs {
+         @include list-row();
+         height: 100%;
+
+         .icon {
+            padding-inline: $pad-300;
+         }
+      }
+
+   }
+
+}

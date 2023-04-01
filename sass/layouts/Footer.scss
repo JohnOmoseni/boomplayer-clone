@@ -1,0 +1,114 @@
+@use '../abstracts/' as *;
+
+.player-container {
+  // @include flex-column();
+  align-items: start;
+  gap: 0;
+  padding-bottom: $pad-100;
+
+  width: 100%;
+  min-height: 8em;
+  background: var(--bg-fixed);
+  margin: auto;
+  position: sticky;
+  bottom: 0;
+  z-index: $z-index-200;
+  box-shadow: $bs-100;
+  overflow: hidden;
+
+  >*:not(.progress-bar) {
+    padding: $pad-300 $pad-500;
+
+  }
+
+  .progress-bar {
+    --progress-width: 0px;
+
+    position: absolute;
+    background: var(--border-regular);
+    width: 100%;
+    height: 3px;
+    z-index: $z-index-300;
+
+    &::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      width: var(--progress-width);
+      height: 100%;
+      background: #0026e2b4;
+    }
+  }
+
+  .player {
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto 1fr auto auto;
+    place-items: center;
+    gap: $pad-400;
+    cursor: pointer;
+
+    .song-cover {
+      width: 40px;
+      height: 45px;
+      background: var(--bg-img-default);
+      overflow: hidden;
+      border-radius: $br-thin;
+      box-shadow: $bs-cover-img;
+      filter: blur(1px);
+
+    }
+
+    .song-details {
+      @include flex-column();
+
+      width: 100%;
+      padding-right: $pad-300;
+      justify-self: start;
+      gap: 0.1em;
+      overflow: hidden;
+
+      .song-title {
+        width: 100%;
+        font-weight: $fw-semi-bold;
+      }
+
+      .song-artiste {
+        width: 100%;
+        letter-spacing: $ls-100;
+        color: var(--grey-txt-200)
+      }
+    }
+
+    .playpause {
+      box-shadow: $bs-200;
+      background: var(--bg-variant);
+    }
+  }
+
+  .links {
+    @include flex-row();
+    gap: $pad-100;
+    width: 100%;
+    border-top: 1px solid var(--border-light);
+    justify-content: space-around;
+
+    >* {
+      @include flex-column($wrap: nowrap);
+      gap: $pad-100;
+      text-align: center;
+    }
+
+    >.active {
+      .link-title {
+        color: var(--variant-txt);
+      }
+    }
+
+    .link-title {
+      color: var(--grey-txt-100);
+      font-weight: $fw-semi-bold;
+    }
+  }
+
+}

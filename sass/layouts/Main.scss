@@ -1,0 +1,12 @@
+@use '../abstracts/' as *;
+@use '../components/button.scss' as *;
+
+@use '../utilities/music-content/TopRow.scss' as *;
+@use '../utilities/music-content/Discover.scss' as *;
+@use '../utilities/music-content/Trending.scss' as *;
+
+main {
+  padding: $pad-200 $pad-500 2em;
+  position: relative;
+
+}

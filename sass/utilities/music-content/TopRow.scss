@@ -1,0 +1,44 @@
+@use '../../abstracts/' as *;
+
+.top-row {
+  width: 100%;
+  display: grid;
+  grid-template-rows: 20vh auto;
+
+  .cover-arts-slider {
+    background: var(--bg-dark-variant);
+    overflow: hidden;
+    border-radius: $br-semi-thin;
+
+    .cover-arts {
+      position: relative;
+      width: 100%;
+      height: 100%;
+
+      img {
+        position: absolute;
+      }
+    }
+
+  }
+
+  .music-options {
+    padding: $pad-400 $pad-200 2em;
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: auto;
+    align-items: center;
+
+    .option {
+      display: grid;
+      grid-auto-rows: min-content;
+      place-items: center;
+      width: 100%;
+      text-align: center;
+
+      .option-title {
+        color: var(--white-txt-200);
+      }
+    }
+  }
+}

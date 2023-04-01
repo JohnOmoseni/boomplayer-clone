@@ -1,0 +1,82 @@
+@use '../abstracts/' as *;
+
+body {
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+.wrapper {
+  width: 100%;
+  height: 100vh;
+  // background: #000;
+
+  .wrapper-content {
+    width: min(100%, 600px);
+    height: 100%;
+    margin: 0 auto;
+    background: var(--bg-fixed);
+    position: relative;
+    overflow: hidden auto;
+
+    .wrapper-body {
+      width: 100%;
+      min-height: 100%;
+
+    }
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      display: block;
+    }
+
+    a,
+    span {
+      display: inline-block;
+      text-decoration: none;
+    }
+
+    & :is(a, .icon, button) {
+      cursor: pointer;
+    }
+
+    .truncate {
+      display: block;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      overflow: hidden;
+      text-shadow: $ts-100;
+    }
+
+    .error,
+    .loading {
+      position: relative;
+      margin-top: 50%;
+      text-align: center;
+    }
+
+    @include playpause();
+
+
+
+    overflow: hidden auto;
+    /* For Firefox */
+    scrollbar-width: none;
+    /* For Internet Explorer and Edge */
+    -ms-overflow-style: none;
+
+    &::-webkit-scrollbar {
+      width: $pad-300;
+      background: var(--bg-scrollbar);
+      border-radius: 100vmax;
+    }
+
+    &::-webkit-scrollbar-thumb {
+      background: var(--bg-scrollthumb);
+      border-radius: 100vmax;
+      border: 2px solid var(--bg-scrollbar)
+    }
+
+  }
+}

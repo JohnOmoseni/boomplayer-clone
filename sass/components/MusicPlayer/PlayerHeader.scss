@@ -1,0 +1,65 @@
+@use '../../abstracts/' as *;
+
+@mixin PlayerHeader() {
+  .heading {
+    @include flex-row();
+    gap: 0;
+    width: 100%;
+    background: inherit;
+    padding-block: $pad-500;
+    position: sticky;
+    top: 0;
+    z-index: $z-index-200;
+    border-bottom: 1px solid var(--bg-grey);
+    box-shadow: $bs-300;
+
+    .close-player {
+      @include close-icon();
+
+    }
+
+    @include tabs();
+  }
+}
+
+@mixin tabs($justify: center) {
+  .tabs {
+    @include flex-row();
+    flex: 1;
+    gap: $pad-600;
+    justify-content: $justify;
+    position: relative;
+
+    .tab {
+      color: var(--grey-txt-100);
+      font-size: $fs-350;
+      text-shadow: $ts-100;
+      line-height: 1.4;
+      cursor: pointer;
+      transition: $transition;
+      transform: scale(0.9);
+      user-select: none;
+
+      &:not(.active-tab):hover {
+        letter-spacing: 1px;
+      }
+
+      &.active-tab {
+        color: var(--white-txt-200);
+        transform: scale(1);
+      }
+    }
+
+    >div:not(:last-of-type)::after {
+      content: '';
+      position: absolute;
+      top: 50%;
+      left: calc(100% + 13px);
+      transform: translateY(-50%);
+      background: var(--bg-grey);
+      width: 3px;
+      height: 50%;
+      border-radius: $br-thin;
+    }
+  }
+}

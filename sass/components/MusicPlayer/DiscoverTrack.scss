@@ -1,0 +1,59 @@
+@use '../../abstracts/' as *;
+@use './RelatedSongs.scss' as *;
+
+.discover-track {
+   position: relative;
+   width: 100%;
+   height: 100%;
+
+   .content {
+      @include flex-column();
+      padding: $pad-500 $pad-300;
+      gap: $pad-600;
+      width: 100%;
+      height: 100%;
+
+      span {
+         display: block;
+      }
+
+      .block {
+         @include flex-column();
+         width: 100%;
+         background: var(--bg-dark-variant);
+         padding: $pad-300;
+         border-radius: $br-thin;
+         box-shadow: $bs-400;
+         overflow: hidden;
+      }
+   }
+
+   .details {
+      >*:not(:first-child) {
+         @include flex-row();
+         gap: $pad-200;
+         margin-left: $pad-200;
+      }
+
+      span {
+         padding-block: $pad-100;
+      }
+
+      .track-details h2 {
+         text-shadow: $ts-200
+      }
+
+      img {
+         width: 50px;
+         height: 50px;
+         clip-path: circle();
+         border-radius: $br-round;
+         border: 2px inset rgba(0, 0, 0, 0.5)
+      }
+   }
+
+   .related-songs {
+      width: 100%;
+      @include related-songs();
+   }
+}

@@ -1,0 +1,9 @@
+@use '../abstracts/' as *;
+
+@mixin reset-button($width: max-content, $bg: none) {
+  width: $width;
+  background: $bg;
+  border: none;
+  outline: none;
+  box-shadow: $bs-400;
+}

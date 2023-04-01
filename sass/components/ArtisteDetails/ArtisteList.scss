@@ -1,0 +1,14 @@
+@use '../../abstracts/' as *;
+@use '../../pages/Library/ContainerLayout.scss' as *;
+@use '../../helpers/HeaderTemplate.scss' as *;
+@use '../../helpers/CardTemplate.scss' as *;
+@use '../../helpers/List.scss' as *;
+
+
+.artists {
+   @include header-template();
+
+   @include list-container();
+   @include card-template();
+
+}
