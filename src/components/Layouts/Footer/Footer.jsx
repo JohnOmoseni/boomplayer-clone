@@ -24,7 +24,8 @@ function Footer() {
 
   const whilePlaying = () => {
     width.current = Math.floor((audioEl.currentTime / duration) * 100);
-    progressBar.current.style.setProperty("--progress-width", `${width.current}%`);
+    if (progressBar.current)
+      progressBar.current.style.setProperty("--progress-width", `${width.current}%`);
 
     animationRef.current = requestAnimationFrame(whilePlaying);
   };

@@ -4,7 +4,7 @@
   // @include flex-column();
   align-items: start;
   gap: 0;
-  padding-bottom: $pad-100;
+  padding-bottom: 0.4em 0;
 
   width: 100%;
   min-height: 8em;
@@ -17,7 +17,7 @@
   overflow: hidden;
 
   >*:not(.progress-bar) {
-    padding: $pad-300 $pad-500;
+    padding: $pad-200 $pad-500;
 
   }
 
@@ -55,7 +55,11 @@
       overflow: hidden;
       border-radius: $br-thin;
       box-shadow: $bs-cover-img;
-      filter: blur(1px);
+      backdrop-filter: blur(1px);
+
+      img {
+        object-fit: cover;
+      }
 
     }
 
@@ -90,12 +94,13 @@
     @include flex-row();
     gap: $pad-100;
     width: 100%;
+    padding-block: $pad-200 0;
     border-top: 1px solid var(--border-light);
     justify-content: space-around;
 
     >* {
       @include flex-column($wrap: nowrap);
-      gap: $pad-100;
+      gap: 0;
       text-align: center;
     }
 

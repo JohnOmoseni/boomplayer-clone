@@ -1,19 +1,16 @@
-import React from "react";
-import { useGetWorldChartsQuery } from "../../../redux/features/shazamApiSlice";
+import Loader from "../../Loader";
+import Error from "../../Error";
 import SongCard from "./SongCard";
 
 import test from "/musicdata.json";
 
-function Discover() {
-  const { data, error, isLoading, isFetching } = useGetWorldChartsQuery();
-
+function Discover({ data, error, isFetching, isError }) {
   console.log(data);
 
-  // if (isLoading) return <h2>Loading...</h2>;
-  // if (error) return <h2>error</h2>;
   return (
     <div className="discover">
-      {isFetching && <h2>Fetching...</h2>}
+      {isFetching && <Loader title="Fetching" />}
+      {/* {isError && <Error error="" />} */}
       {test?.map((song, idx) => (
         <SongCard key={song?.key} song={song} idx={idx} data={test} />
       ))}

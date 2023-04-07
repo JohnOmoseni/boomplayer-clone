@@ -1,29 +1,49 @@
-import React from "react";
-import { SwiperSlide, Swiper } from "swiper/react";
-import { Pagination, FreeMode } from "swiper";
+import test from "/musicdata.json";
 import { Link } from "react-router-dom";
+import { SwiperSlide, Swiper } from "swiper/react";
+import { Navigation, Pagination, Autoplay } from "swiper";
 
 import "swiper/css";
 import "swiper/css/pagination";
+import "swiper/css/autoplay";
 
 import { musicLinks } from "../../../constants/constants";
 
-function TopRow() {
+function TopRow({ data }) {
+  const images = test
+    ?.map((song, idx) => {
+      return { id: song?.key, img: song?.images?.coverart, subtitle: song?.subtitle };
+    })
+    .slice(20, 31)
+    .sort((a, b) => {
+      const objA = a["subtitle"];
+      const objB = b["subtitle"];
+      return objA.localeCompare(objB);
+    });
+
+  console.log(images);
   return (
     <div className="top-row">
       <div className="cover-arts-slider">
         <Swiper
-          modules={[Pagination, FreeMode]}
-          freeMode="true"
-          pagination
+          modules={[Navigation, Pagination, Autoplay]}
+          autoplay={{
+            delay: 4000,
+          }}
           slidesPerView="1"
-          speed="600"
+          speed={600}
           centeredSlides="true"
+          loop
           className="swiper-wrapper"
         >
-          <SwiperSlide className="cover-arts">
-            <img src="" alt="" />
-          </SwiperSlide>
+          {images.length &&
+            images.map((image, idx) => {
+              return (
+                <SwiperSlide className="cover-arts" key={idx}>
+                  <img src={image.img} alt="" />
+                </SwiperSlide>
+              );
+            })}
         </Swiper>
       </div>
       <div className="music-options">

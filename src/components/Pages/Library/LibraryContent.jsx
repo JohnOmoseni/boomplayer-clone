@@ -1,5 +1,3 @@
-import React from "react";
-import { FaCommentDots } from "react-icons/fa";
 import { useDispatch } from "react-redux";
 import { setActiveSong } from "../../../redux/features/playerSlice";
 
@@ -21,9 +19,6 @@ function LibraryContent({ currentSongs, activeSong }) {
                 <h3 className="track-title truncate">{song?.title ?? "Unknown"}</h3>
                 <span className="subtitle fs-small">{song?.subtitle ?? "<unknown>"}</span>
               </div>
-              <span className="icon">
-                <FaCommentDots />
-              </span>
             </li>
           );
         })}

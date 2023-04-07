@@ -1,7 +1,6 @@
-import React, { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import useAudioState from "../Context/AudioStateContext";
-import { playPause } from "../redux/features/playerSlice";
 
 import TestControl from "./TestControl";
 import TestSeekbar from "./TestSeekbar";
@@ -25,10 +24,19 @@ function TestWithContext() {
   const [isReady, setIsReady] = useState(false);
   const [currentTime, setCurrentTime] = useState(0);
   const [seekVal, setSeekVal] = useState(0);
-  const [volume, setVolume] = useState(0.3);
+  const [volume, setVolume] = useState(0.2);
 
   const sliderRef = useRef();
   const animationRef = useRef();
+
+  const canPlay = () => {
+    console.log("audio file can begin to play");
+    setIsReady(true);
+  };
+  const cannotPlay = () => {
+    console.log("audio file not ready to play");
+    setIsReady(false);
+  };
 
   useEffect(() => {
     if (audioEl?.src) {
@@ -38,11 +46,13 @@ function TestWithContext() {
       audioEl.addEventListener("stalled", () => console.log("file stalled"));
       audioEl.addEventListener("emptied", () => console.log("audio file emptied"));
       audioEl.addEventListener("error", () => console.log("error loading file"));
-      audioEl.addEventListener("canplay", () => console.log("audio file can begin to play"));
+      audioEl.addEventListener("canplay", canPlay);
     }
 
-    return () => {};
-  }, []);
+    return () => {
+      audioEl.removeEventListener("canplay", canPlay);
+    };
+  }, [activeSong]);
 
   useEffect(() => {
     if (audioEl) {
@@ -51,7 +61,6 @@ function TestWithContext() {
         animationRef.current = requestAnimationFrame(whilePlaying);
       } else {
         console.log("stopped");
-        cancelAnimationFrame(animationRef.current);
       }
     }
   }, [isPlaying]);
@@ -78,6 +87,7 @@ function TestWithContext() {
 
       const seekBeforeWidth = ((sliderRef.current?.value / audioEl.duration) * 100).toFixed(1);
       sliderRef.current?.style.setProperty("--seek-before-width", `${seekBeforeWidth}%`);
+
       setCurrentTime(sliderRef.current?.value);
 
       animationRef.current = requestAnimationFrame(whilePlaying);
@@ -86,8 +96,12 @@ function TestWithContext() {
 
   const handleVolume = id => {
     if (id === "increase") {
+      const newVolume = volume + 0.2;
+      if (newVolume.toFixed(1) > 1) return;
       setVolume(prev => Number(prev) + 0.2);
     } else {
+      const newVolume = volume - 0.2;
+      if (newVolume.toFixed(1) < 0) return;
       setVolume(prev => Number(prev) - 0.2);
     }
   };

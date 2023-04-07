@@ -1,4 +1,3 @@
-import React from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { FaRegPlayCircle, FaRegPauseCircle } from "react-icons/fa";
 import { playPause, setActiveSong } from "../../redux/features/playerSlice";
@@ -13,6 +12,7 @@ function SongRow({ song, idx, data }) {
   };
   const handlePlayClick = () => {
     if (activeSong) dispatch(playPause(true));
+    return;
   };
 
   const handleSetSong = e => {

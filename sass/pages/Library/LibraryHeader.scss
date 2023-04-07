@@ -6,7 +6,6 @@
   .heading {
     @include flex-column();
     gap: 0;
-    padding-block: $pad-200;
     background: var(--bg-fixed);
     position: sticky;
     top: 0;
@@ -21,7 +20,7 @@
       @include flex-row();
       gap: 1em;
       position: relative;
-      padding: $pad-400 $pad-300;
+      padding: $pad-300;
 
       .prev-page {
         @include close-icon();
@@ -37,7 +36,7 @@
     @include tabs($justify: space-around);
 
     .tabs {
-      margin-block: $pad-300 1.2em;
+      margin-block: $pad-200 1.2em;
       padding-inline: $pad-300 ;
     }
 
@@ -60,7 +59,7 @@
       @include flex-row();
       justify-content: space-between;
       border-top: 1px solid var(--border-light);
-      padding: $pad-400 $pad-300 $pad-200;
+      padding: $pad-300 $pad-300 $pad-200;
       margin-block-start: $pad-100;
 
       .column {

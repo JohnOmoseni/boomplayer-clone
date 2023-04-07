@@ -1,4 +1,3 @@
-import React from "react";
 import { Link } from "react-router-dom";
 import { useGetSongsRelatedQuery } from "../../redux/features/shazamApiSlice";
 import Error from "../Error";
@@ -13,7 +12,6 @@ function RelatedSongs({ songid }) {
   return (
     <div className="related-songs">
       <div className="top">
-        {/* <span className="icon"></span> */}
         <h3>Related Songs</h3>
       </div>
       <ul className="body block">

@@ -1,7 +1,5 @@
-import React from "react";
-
-function Loader() {
-  return <div className="loading">Loading...</div>;
+function Loader({ title = "Loading" }) {
+  return <div className="loading">{`${title}...`}</div>;
 }
 
 export default Loader;

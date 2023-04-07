@@ -18,17 +18,25 @@ export function AudioStateProvider({ children }) {
   const [repeat, setRepeat] = useState(false);
 
   useEffect(() => {
+    let timeout;
     if (audioEl) {
       if (isPlaying) {
-        audioEl.play();
+        timeout = setTimeout(() => {
+          audioEl.play();
+        }, 3000);
       } else {
         audioEl.pause();
       }
     }
+    return () => {
+      clearInterval(timeout);
+    };
   }, [isPlaying]);
 
   useEffect(() => {
-    const audio = new Audio(activeSong?.hub?.actions[1]?.uri ?? activeSong?.url);
+    // const audio = new Audio(activeSong?.hub?.actions[1]?.uri ?? activeSong?.url);
+    const audio = new Audio(song);
+
     const setAudioTime = () => {
       setDuration(Math.floor(audio.duration));
     };
@@ -39,8 +47,8 @@ export function AudioStateProvider({ children }) {
     setAudioEl(audio);
     console.log(audio.src);
     return () => {
-      audio.remove("loadeddata", setAudioTime);
-      audio.remove("ended", handleNextSong);
+      audio.removeEventListener("loadeddata", setAudioTime);
+      audio.removeEventListener("ended", handleNextSong);
       audio.pause();
     };
   }, [activeSong]);

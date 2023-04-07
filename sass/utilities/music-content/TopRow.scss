@@ -3,7 +3,7 @@
 .top-row {
   width: 100%;
   display: grid;
-  grid-template-rows: 20vh auto;
+  grid-template-rows: 30vh auto;
 
   .cover-arts-slider {
     background: var(--bg-dark-variant);
@@ -17,6 +17,7 @@
 
       img {
         position: absolute;
+        object-fit: none;
       }
     }
 

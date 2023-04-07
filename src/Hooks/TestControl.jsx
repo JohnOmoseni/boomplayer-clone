@@ -1,4 +1,3 @@
-import React from "react";
 import { MdSkipNext, MdSkipPrevious } from "react-icons/md";
 import { BsArrowRepeat, BsFillPauseFill, BsFillPlayFill, BsShuffle } from "react-icons/bs";
 import PlayPause from "../components/PlayPause";
@@ -18,7 +17,7 @@ function TestControl({
   return (
     <div className="controls">
       <button className={shuffle ? "shuffle active" : "shuffle"} onClick={handleShuffle}>
-        <BsShuffle className="icon" size={40} fill={shuffle && !repeat ? "white" : "white"} />
+        <BsShuffle className="icon" size={35} fill={shuffle && !repeat ? "white" : "white"} />
       </button>
 
       <div className="change-song">
@@ -49,7 +48,7 @@ function TestControl({
       </div>
 
       <button className={repeat ? "repeat-track active" : "repeat-track"} onClick={handleRepeat}>
-        <BsArrowRepeat className="icon" size={40} fill={repeat && !shuffle ? "white" : "white"} />
+        <BsArrowRepeat className="icon" size={35} fill={repeat && !shuffle ? "white" : "white"} />
       </button>
     </div>
   );

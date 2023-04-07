@@ -1,5 +1,3 @@
-import React from "react";
-
 function TrackDetails({ activeSong }) {
   return (
     <div className="track-details truncate">

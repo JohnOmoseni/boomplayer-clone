@@ -4,10 +4,9 @@
 .header {
   @include flex-column();
   width: 100%;
-  padding-block: $pad-500;
-  padding-inline: $pad-300;
+  padding: $pad-200 $pad-300 $pad-300;
   background: var(--bg-fixed);
-  gap: 1.8em;
+  gap: 1.3em;
   position: sticky;
   top: 0;
   z-index: $z-index-200;

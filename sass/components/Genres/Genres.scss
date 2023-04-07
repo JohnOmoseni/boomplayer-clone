@@ -10,7 +10,7 @@
    a.genre-card {
       width: 100%;
       text-align: center;
-      // background: linear-gradient(340deg, rgba(white, 0.5), transparent);
+      background: linear-gradient(340deg, rgba(rgb(92, 92, 92), 0.5), transparent);
       display: grid;
       place-items: center;
       border-radius: $br-semi-thin;
@@ -24,6 +24,14 @@
          padding: 1em;
          z-index: 1;
       }
+   }
+}
 
+@media screen and (max-width: 380px) {
+   .genres-list {
+
+      .list-container {
+         grid-template-columns: repeat(1, auto);
+      }
    }
 }

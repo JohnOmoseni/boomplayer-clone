@@ -16,20 +16,21 @@
     }
 
     .controls {
-      width: 70%;
+      width: 60%;
       margin: 0 auto;
-      gap: $pad-400;
+      gap: 0.35em;
       padding: $pad-200 0;
 
       .change-song {
         flex: 1;
         @include flex-row();
+        gap: 0.2em;
         justify-content: space-around;
       }
 
       button {
         @include reset-button();
-        padding: $pad-200;
+        padding: 0.4em;
         border-radius: $br-regular;
         display: grid;
         place-items: center;
@@ -43,9 +44,9 @@
         }
 
         .playpause {
-          width: fit-content;
+          width: 100px;
+          height: 100px;
           border-radius: $br-round;
-          // background: var(--bg-dark-variant);
           box-shadow: $bs-500;
 
           .play {
