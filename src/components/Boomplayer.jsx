@@ -14,26 +14,34 @@ import ArtisteDetails from "./Artists/ArtisteDetails";
 import ArtistsList from "./Artists/ArtistsList";
 import Genre from "./Genres//GenreDetails";
 import GenresList from "./Genres/GenresList";
+import Loader from "./Loader";
+import { useGetWorldChartsQuery } from "../redux/features/shazamApiSlice";
 
 function Boomplayer() {
+  const { data, error, isFetching, isError } = useGetWorldChartsQuery();
+
   return (
     <>
       <div className="wrapper-body">
-        <Suspense fallback="Loading...">
+        <Suspense fallback={<Loader title="Loading..." />}>
           <Routes>
             <Route path="/" element={<Navigate to="/music" />} />
             <Route path="/music">
               <Route index element={<Home />} />
-              <Route path="top-charts" element={<TopCharts />} />
+              <Route
+                path="top-charts"
+                element={<TopCharts data={data} isFetching={isFetching} isError={isError} />}
+              />
               <Route path="genres" element={<GenresList />} />
               <Route path="genres/:genre" element={<Genre />} />
-              <Route path="artists" element={<ArtistsList />} />
+              <Route
+                path="artists"
+                element={<ArtistsList data={data} isFetching={isFetching} isError={isError} />}
+              />
               <Route path="artiste-details/:id" element={<ArtisteDetails />} />
-              <Route path="playlist" element={<Home />} />
             </Route>
 
             <Route path="/search" element={<Search />} />
-
             <Route path="/library" element={<Library />} />
             <Route path="/account" element={<Account />} />
           </Routes>

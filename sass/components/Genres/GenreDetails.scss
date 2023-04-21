@@ -1,0 +1,11 @@
+@use '../../abstracts/' as *;
+@use '../../helpers/HeaderTemplate.scss' as *;
+
+.genre-page {
+   .cover-details {
+
+      @include header-template();
+   }
+
+
+}

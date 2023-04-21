@@ -3,7 +3,6 @@
 @use '../../helpers/List.scss' as *;
 
 .genres-list {
-   @include header-template();
 
    @include list-container(200px);
 

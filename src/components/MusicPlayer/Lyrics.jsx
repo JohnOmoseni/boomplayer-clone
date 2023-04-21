@@ -1,6 +1,4 @@
-import React from "react";
 import { useGetSongDetailsQuery } from "../../redux/features/shazamApiSlice";
-import Error from "../Error";
 import Loader from "../Loader";
 import song from "/songdetails.json";
 

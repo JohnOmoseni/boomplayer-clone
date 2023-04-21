@@ -1,5 +1,5 @@
-import React from "react";
 import { FaRegPlayCircle, FaRegPauseCircle } from "react-icons/fa";
+import { MdArrowBackIos } from "react-icons/md";
 
 import { useNavigate } from "react-router-dom";
 import TabNav from "../../Layouts/Header/TabNav";
@@ -13,7 +13,7 @@ function LibraryHeader({ activeTab, handleTabChange, currentSongs }) {
     <div className="heading">
       <div className="top-nav">
         <span className="prev-page" onClick={() => navigate("/music")}>
-          &lt;
+          <MdArrowBackIos />
         </span>
         <h3 className="library-title">Library</h3>
       </div>

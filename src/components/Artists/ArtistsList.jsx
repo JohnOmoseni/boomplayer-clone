@@ -1,4 +1,3 @@
-import React from "react";
 import { Link } from "react-router-dom";
 import { useGetWorldChartsQuery } from "../../redux/features/shazamApiSlice";
 import HeaderTemplate from "../HeaderTemplate";
@@ -10,7 +9,7 @@ function ArtistsList() {
   const { data, error, isLoading, isError } = useGetWorldChartsQuery();
 
   return (
-    <div className="artists">
+    <div className="artists options">
       <HeaderTemplate title="Artists" />
       {isLoading ? (
         <Loader />

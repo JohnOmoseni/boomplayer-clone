@@ -1,11 +1,11 @@
-import React from "react";
+import { MdArrowBackIos } from "react-icons/md";
 import TabNav from "../Layouts/Header/TabNav";
 
 function PlayerHeader({ headerRef, activeTab, handleTabChange, closePlayer }) {
   return (
     <div className="heading" ref={headerRef}>
       <div className="close-player icon" onClick={closePlayer}>
-        &lt;
+        <MdArrowBackIos />
       </div>
       <div className="tabs">
         <TabNav

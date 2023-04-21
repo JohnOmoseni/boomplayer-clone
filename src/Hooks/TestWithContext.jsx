@@ -50,7 +50,7 @@ function TestWithContext() {
     }
 
     return () => {
-      audioEl.removeEventListener("canplay", canPlay);
+      // audioEl.removeEventListener("canplay", canPlay);
     };
   }, [activeSong]);
 

@@ -6,9 +6,8 @@
 
     height: 100%;
     display: grid;
-    grid-template-rows: minmax(250px, 1fr) auto;
+    grid-template-rows: 220px auto;
     gap: $pad-100;
-    padding: $pad-100;
     border-radius: $br-thin;
     box-shadow: $bs-200;
 
@@ -51,7 +50,7 @@
 
     .details {
       width: 100%;
-      padding: $pad-200 $pad-300 $pad-300 $pad-200;
+      padding: $pad-200 $pad-300 $pad-300 $pad-300;
       overflow: hidden;
 
       .song-title {

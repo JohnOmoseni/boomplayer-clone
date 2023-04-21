@@ -1,4 +1,5 @@
 @use '../base/global.scss' as *;
+@use '../components/options.scss' as *;
 @use '../layouts/Header.scss' as *;
 @use '../layouts/Main.scss' as *;
 @use '../layouts/Footer.scss' as *;
@@ -7,5 +8,6 @@
 @use '../components/ArtisteDetails/ArtisteDetails.scss' as *;
 @use '../components/ArtisteDetails/ArtisteList.scss' as *;
 @use '../components/Genres/Genres.scss' as *;
+@use '../components/Genres/GenreDetails.scss' as *;
 
 @use '../popups/AllSong.scss' as *;

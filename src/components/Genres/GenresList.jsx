@@ -1,4 +1,3 @@
-import React from "react";
 import { Link } from "react-router-dom";
 import { genres } from "../../constants/genre";
 
@@ -6,7 +5,7 @@ import HeaderTemplate from "../HeaderTemplate";
 
 function GenresList() {
   return (
-    <div className="genres-list">
+    <div className="genres-list options">
       <HeaderTemplate title="Genres" />
       <div className="genres list-container">
         {genres.map(({ title, value }) => {

@@ -1,4 +1,3 @@
-import React from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { playPause, setActiveSong } from "../../redux/features/playerSlice";
 import CardTemplate from "../CardTemplate";

@@ -1,10 +1,13 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { useEffect } from "react";
 import { useSearchParams } from "react-router-dom";
 import { useGetSongsBySearchQuery } from "../redux/features/shazamApiSlice";
+import HeaderTemplate from "./HeaderTemplate";
 import SongCard from "./Layouts/Main/SongCard";
+import Loader from "./Loader";
 
 import test from "/musicdata.json";
+import "/sass/pages/Search.scss";
 
 function Search() {
   const [searchParams] = useSearchParams();
@@ -14,7 +17,6 @@ function Search() {
 
   useEffect(() => {
     if (searchTerm) {
-      console.log(searchTerm);
       const value = searchTerm.toLowerCase();
       const filteredSongs = test.filter(
         song =>
@@ -24,19 +26,22 @@ function Search() {
       console.log(filteredSongs);
       setTestArray(filteredSongs);
     }
-  }, []);
+  }, [searchTerm]);
 
-  if (isLoading) return <h2>Fetching...</h2>;
+  if (isLoading) return <Loader title="Fetching" />;
   return (
     <div className="search-comp">
-      <h3>Top Results</h3>
-      {testArray.length > 0 ? (
-        testArray?.map((song, idx) => (
-          <SongCard key={song?.key} song={song} idx={idx} data={test} />
-        ))
-      ) : (
-        <h1>No items to display</h1>
-      )}
+      <HeaderTemplate title="Search" url="/music" />
+      <h2>Top Results</h2>
+      <div className="content">
+        {testArray.length > 0 ? (
+          testArray?.map((song, idx) => (
+            <SongCard key={song?.key} song={song} idx={idx} data={test} />
+          ))
+        ) : (
+          <h3 className="no-items">No items to display</h3>
+        )}
+      </div>
     </div>
   );
 }

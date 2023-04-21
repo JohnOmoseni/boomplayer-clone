@@ -5,8 +5,6 @@ for (let i = 0; i < 20; i++) {
   cards.push(<SongDetails key={i} />);
 }
 
-// cards?.map((card, idx) => card);
-
 function Albums() {
   return (
     <>

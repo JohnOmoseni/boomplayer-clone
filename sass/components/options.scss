@@ -1,0 +1,14 @@
+@use '../abstracts/' as *;
+@use '../helpers/HeaderTemplate.scss' as *;
+
+.options {
+   @include header-template();
+
+   & :is(.loader, .error) {
+      min-height: 70vh !important;
+   }
+}
+
+.top-charts {}
+
+.artists {}

@@ -34,8 +34,8 @@ export function AudioStateProvider({ children }) {
   }, [isPlaying]);
 
   useEffect(() => {
-    // const audio = new Audio(activeSong?.hub?.actions[1]?.uri ?? activeSong?.url);
-    const audio = new Audio(song);
+    const audio = new Audio(activeSong?.hub?.actions[1]?.uri ?? activeSong?.url);
+    // const audio = new Audio(song);
 
     const setAudioTime = () => {
       setDuration(Math.floor(audio.duration));

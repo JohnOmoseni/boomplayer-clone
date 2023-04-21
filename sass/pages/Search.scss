@@ -1,0 +1,24 @@
+@use '../abstracts/' as *;
+@use '../helpers/HeaderTemplate.scss' as *;
+@use '../components/SongCard.scss' as *;
+
+.search-comp {
+   @include flex-column();
+   width: 100%;
+
+   @include header-template();
+
+   >h2 {
+      padding: 0 $pad-300;
+   }
+
+   .content {
+      padding: 0 $pad-300;
+      width: 100%;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      @include song-card();
+   }
+
+
+}

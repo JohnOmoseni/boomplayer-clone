@@ -4,7 +4,7 @@ import Discover from "./Discover";
 import TopRow from "./TopRow";
 
 function MusicContent() {
-  const { data, error, isLoading, isFetching, isError } = useGetWorldChartsQuery();
+  const { data, error, isFetching, isError } = useGetWorldChartsQuery();
 
   return (
     <div className="music-content">

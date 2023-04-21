@@ -1,4 +1,3 @@
-import React from "react";
 import TabContent from "../Header/TabContent";
 import MusicContent from "./MusicContent";
 import Trending from "./Trending";
