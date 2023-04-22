@@ -6,7 +6,13 @@
 @use '../utilities/music-content/Trending.scss' as *;
 
 main {
-  padding: $pad-200 $pad-500 2em;
+  padding: $pad-200 $pad-500 1em;
   position: relative;
+
+  >.error,
+  >.loading,
+  .music-content :is(.error, .loading) {
+    min-height: 50vh !important;
+  }
 
 }

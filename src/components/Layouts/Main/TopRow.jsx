@@ -1,4 +1,3 @@
-import test from "/musicdata.json";
 import { Link } from "react-router-dom";
 import { SwiperSlide, Swiper } from "swiper/react";
 import { Navigation, Pagination, Autoplay } from "swiper";
@@ -10,7 +9,7 @@ import "swiper/css/autoplay";
 import { musicLinks } from "../../../constants/constants";
 
 function TopRow({ data }) {
-  const images = test
+  const images = data
     ?.map((song, idx) => {
       return { id: song?.key, img: song?.images?.coverart, subtitle: song?.subtitle };
     })
@@ -21,7 +20,6 @@ function TopRow({ data }) {
       return objA.localeCompare(objB);
     });
 
-  console.log(images);
   return (
     <div className="top-row">
       <div className="cover-arts-slider">
@@ -36,7 +34,7 @@ function TopRow({ data }) {
           loop
           className="swiper-wrapper"
         >
-          {images.length &&
+          {images?.length > 0 &&
             images.map((image, idx) => {
               return (
                 <SwiperSlide className="cover-arts" key={idx}>

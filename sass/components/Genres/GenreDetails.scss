@@ -1,11 +1,22 @@
 @use '../../abstracts/' as *;
 @use '../../helpers/HeaderTemplate.scss' as *;
+@use "../ArtisteDetails/ArtistSongs.scss" as *;
+@use "../ArtisteDetails/ArtistCover.scss" as *;
 
 .genre-page {
-   .cover-details {
 
-      @include header-template();
+   @include header-template();
+   @include Artiste-cover-img();
+
+   @include Artiste-songs();
+
+
+   .tag {
+      padding: $pad-200;
+      text-shadow: $ts-300;
+      letter-spacing: $ls-100;
    }
+
 
 
 }

@@ -50,7 +50,7 @@
 @mixin close-icon() {
   display: grid;
   place-items: center;
-  font-size: 2rem;
+  font-size: $fs-400;
   line-height: 1;
   width: 30px;
   height: 30px;

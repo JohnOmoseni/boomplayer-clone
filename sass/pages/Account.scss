@@ -1,0 +1,10 @@
+@use '../abstracts/' as *;
+
+
+.account-page {
+   width: 100%;
+   min-height: calc(100vh - 150px);
+   display: grid;
+   place-items: center;
+
+}

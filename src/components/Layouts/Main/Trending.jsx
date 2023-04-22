@@ -7,16 +7,14 @@ import trendingSongs from "/songsByCountry.json";
 function Trending() {
   const { data, error, isFetching, isError } = useGetSongsByCountryQuery();
 
+  if (isFetching) return <Loader title="Fetching" />;
+  if (isError) return <Error error="Something went wrong" />;
   return (
-    <>
-      {isFetching && <Loader title="Fetching" />}
-      {isError && <Error error="Something went wrong" />}
-      <div className="trending-songs">
-        {data?.map((song, idx) => (
-          <SongDetails key={song.key} song={song} idx={idx} data={trendingSongs && trendingSongs} />
-        ))}
-      </div>
-    </>
+    <div className="trending-songs">
+      {data?.map((song, idx) => (
+        <SongDetails key={song.key} song={song} idx={idx} data={trendingSongs && trendingSongs} />
+      ))}
+    </div>
   );
 }
 

@@ -5,13 +5,14 @@
   gap: 0;
   padding-bottom: 0.4em;
 
-  width: 100%;
+  width: min(100%, 600px);
   min-height: 8em;
   background: var(--bg-fixed);
   margin: auto;
-  position: sticky;
+  position: fixed;
   bottom: 0;
   z-index: $z-index-200;
+  transform: translateX(0);
   box-shadow: $bs-100;
   overflow: hidden;
 

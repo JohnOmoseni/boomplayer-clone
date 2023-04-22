@@ -26,18 +26,21 @@ h1 {
   font-size: $fs-primary-heading;
   line-height: 1.4;
   text-shadow: $ts-200;
+  font-family: $ff-header;
 }
 
 h2 {
   font-size: $fs-secondary-heading;
   line-height: 1.4;
   text-shadow: $ts-200;
+  font-family: $ff-header;
 }
 
 h3 {
   font-size: $fs-sub-heading;
   line-height: 1.2;
   text-shadow: $ts-100;
+  font-family: $ff-header;
 }
 
 .hide-scroll {

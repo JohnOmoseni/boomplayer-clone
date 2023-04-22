@@ -1,8 +1,18 @@
 @use "./variables" as *;
 
+@font-face {
+  font-family: 'Poppin';
+  src: url('/Poppins-regular.ttf');
+}
+
+@font-face {
+  font-family: 'PoppinLight';
+  src: url('/Poppins-Light.ttf');
+}
+
 // Font-Family
-$ff-family: "Poppins", sans-serif;
-$ff-header: $ff-family;
+$ff-family: "PoppinLight", Arial, sans-serif;
+$ff-header: "Poppin", Arial, sans-serif;
 $ff-subheading: $ff-family;
 $ff-variant: sans-serif;
 $ff-body: $ff-family;

@@ -4,7 +4,7 @@
 .discover {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  grid-auto-rows: minmax(200px, 350px);
+  grid-auto-rows: minmax(200px, 1fr);
   gap: $pad-400;
 
   @include song-card;
