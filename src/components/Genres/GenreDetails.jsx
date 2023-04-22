@@ -10,6 +10,7 @@ function GenreDetails() {
   const rndNo = Math.floor(Math.random() * 50 - 1);
   const { data, isFetching, isError } = useGetSongsByGenreQuery(genre);
 
+  console.log(genre);
   const imgSrc = data?.[rndNo]?.images?.coverarthq;
   return (
     <>

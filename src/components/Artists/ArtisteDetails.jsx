@@ -21,7 +21,7 @@ function ArtisteDetails() {
         </div>
         {isFetching && <Loader title="Fetching" />}
         {isError && <Error error="Something went wrong" />}
-        {artistData && (
+        {artistData?.length > 0 && (
           <>
             <Top artist={artistData} />
             <ArtisteSongs artist={artistData} />
