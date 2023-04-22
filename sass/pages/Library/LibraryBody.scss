@@ -4,9 +4,10 @@
 @mixin LibraryBody() {
   .library-content {
     position: relative;
-    padding-block: $pad-200 7em;
+    padding-block: $pad-200;
     width: 100%;
     height: 100%;
+    margin-bottom: var(--footer-height, 150px);
 
     @include list-row();
 

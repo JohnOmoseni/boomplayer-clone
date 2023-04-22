@@ -7,7 +7,7 @@ import {
   useGetSongDetailsQuery,
 } from "../../redux/features/shazamApiSlice";
 
-import song from "/songdetails.json";
+// import song from "/songdetails.json";
 import img from "/bhuda.jpg";
 import RelatedSongs from "./RelatedSongs";
 
@@ -24,10 +24,10 @@ function DiscoverTrack({
   const artistid = activeSong?.artists?.[0]?.adamid;
   const songid = activeSong?.key;
 
-  const songAlbum = song?.sections?.[0]?.metadata?.[0]?.text;
-  const songLabel = song?.sections?.[0]?.metadata?.[1]?.text;
-  const songReleaseYear = song?.sections?.[0]?.metadata?.[2]?.text;
-  const songGenre = song?.genres?.primary;
+  const songAlbum = songData?.sections?.[0]?.metadata?.[0]?.text;
+  const songLabel = songData?.sections?.[0]?.metadata?.[1]?.text;
+  const songReleaseYear = songData?.sections?.[0]?.metadata?.[2]?.text;
+  const songGenre = songData?.genres?.primary;
 
   return (
     <div className={activeTab === id ? "active discover-track" : "discover-track"}>
@@ -39,7 +39,7 @@ function DiscoverTrack({
         <div className="content">
           <div className="details block">
             <div className="track-details">
-              <h2 className="track-title">{song?.title ?? "Unknown"}</h2>
+              <h2 className="track-title">{songData?.title ?? "Unknown"}</h2>
               <span className="label small-txt">Record Label: {songLabel ?? "<->"}</span>
               <span className="genre small-txt">Genre: {songGenre ?? "<->"}</span>
               <span className="release-year small-txt">
@@ -52,13 +52,13 @@ function DiscoverTrack({
               onClick={closePlayer}
               className="artiste-details"
             >
-              <img src={song?.images?.background ?? { img }} className="artiste-img" />
+              <img src={songData?.images?.background ?? { img }} className="artiste-img" />
               <span className="artiste-name small-txt">
-                Artist: {song?.subtitle ?? "<unknown>"}
+                Artist: {songData?.subtitle ?? "<unknown>"}
               </span>
             </Link>
             <div className="album-details">
-              <img src={song?.images?.coverArt} className="album-cover" />
+              <img src={songData?.images?.coverArt} className="album-cover" />
               <span className="album-name small-txt">Album: {songAlbum ?? "<unknown>"}</span>
             </div>
           </div>

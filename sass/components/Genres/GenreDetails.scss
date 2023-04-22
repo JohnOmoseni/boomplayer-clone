@@ -1,22 +1,36 @@
 @use '../../abstracts/' as *;
+@use "../SongCard.scss" as *;
 @use '../../helpers/HeaderTemplate.scss' as *;
 @use "../ArtisteDetails/ArtistSongs.scss" as *;
 @use "../ArtisteDetails/ArtistCover.scss" as *;
 
-.genre-page {
-
+.genre-details {
    @include header-template();
    @include Artiste-cover-img();
+   margin-bottom: var(--footer-height, 150px);
 
-   @include Artiste-songs();
+   .genre-songs {
+      .tracks-content {
+         padding: $pad-300;
+         display: grid;
+         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+         grid-auto-rows: minmax(200px, 1fr);
+         gap: $pad-400;
 
+         @include song-card;
+      }
+   }
+
+   .error,
+   .loading {
+      min-height: 35vh !important;
+   }
 
    .tag {
-      padding: $pad-200;
+      padding: $pad-500 $pad-200 $pad-200;
       text-shadow: $ts-300;
       letter-spacing: $ls-100;
    }
-
 
 
 }

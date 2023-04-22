@@ -20,10 +20,12 @@
 
   .artists-container {
     @include Container-Layout();
+    margin-bottom: var(--footer-height, 150px);
   }
 
   .albums-container {
     @include Container-Layout($width: 70px);
+    margin-bottom: var(--footer-height, 150px);
 
     .track-details .track-cover {
       border-radius: $br-round;
@@ -35,7 +37,7 @@
   }
 
   &> :last-child {
-    padding-block: $pad-200 $pad-600;
+    padding-block: $pad-200;
   }
 
   &~.player-container {

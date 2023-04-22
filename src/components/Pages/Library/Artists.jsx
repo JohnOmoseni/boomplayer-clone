@@ -7,7 +7,6 @@ function Artists() {
   const artistSongs = subtitle => {
     const noOfSongs = currentSongs.filter(song => song.subtitle === subtitle).length;
 
-    console.log(noOfSongs, currentSongs, subtitle);
     if (noOfSongs) {
       const value = noOfSongs > 1 ? `${noOfSongs} songs` : `${noOfSongs} song`;
       return value;

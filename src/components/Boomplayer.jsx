@@ -1,4 +1,4 @@
-import React, { Suspense } from "react";
+import React, { Suspense, useRef, useEffect } from "react";
 import { Routes, Route, Navigate } from "react-router-dom";
 
 import Footer from "./Layouts/Footer/Footer";
@@ -18,11 +18,19 @@ import Loader from "./Loader";
 import { useGetWorldChartsQuery } from "../redux/features/shazamApiSlice";
 
 function Boomplayer() {
-  const { data, error, isFetching, isError } = useGetWorldChartsQuery();
+  const { data, isFetching, isError } = useGetWorldChartsQuery();
+  const footerRef = useRef();
+  const wrapperRef = useRef();
 
+  useEffect(() => {
+    if (footerRef.current) {
+      const footerHeight = footerRef.current.clientHeight;
+      wrapperRef.current.style.setProperty("--footer-height", `${footerHeight + 6}px`);
+    }
+  }, [footerRef.current]);
   return (
     <>
-      <div className="wrapper-body">
+      <div className="wrapper-body" ref={wrapperRef}>
         <Suspense fallback={<Loader title="Loading..." />}>
           <Routes>
             <Route path="/" element={<Navigate to="/music" />} />
@@ -47,7 +55,7 @@ function Boomplayer() {
           </Routes>
         </Suspense>
       </div>
-      <Footer />
+      <Footer footerRef={footerRef} />
     </>
   );
 }

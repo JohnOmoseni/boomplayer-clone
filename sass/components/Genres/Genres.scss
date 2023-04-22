@@ -5,6 +5,7 @@
 .genres-list {
 
    @include list-container(200px);
+   margin-bottom: var(--footer-height, 150px);
 
    a.genre-card {
       width: 100%;

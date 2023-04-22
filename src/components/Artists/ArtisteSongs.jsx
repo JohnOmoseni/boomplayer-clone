@@ -48,7 +48,6 @@ function ArtisteSongs({ artist }) {
                   {song?.attributes?.artistName ?? "<unknown>"}
                 </span>
               </div>
-              <span className="icon"></span>
             </li>
           ))}
         </ul>

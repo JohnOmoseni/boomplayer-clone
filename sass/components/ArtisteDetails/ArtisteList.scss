@@ -5,10 +5,11 @@
 @use '../../helpers/List.scss' as *;
 
 
-.artists {
+.artist-list {
    @include header-template();
 
    @include list-container();
    @include card-template();
+   margin-bottom: var(--footer-height, 150px);
 
 }

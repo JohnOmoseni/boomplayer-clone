@@ -8,6 +8,7 @@
 main {
   padding: $pad-200 $pad-500 1em;
   position: relative;
+  margin-bottom: var(--footer-height, 150px);
 
   >.error,
   >.loading,

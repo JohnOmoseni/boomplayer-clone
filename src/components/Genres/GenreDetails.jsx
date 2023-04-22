@@ -1,50 +1,38 @@
 import { useParams } from "react-router-dom";
 import { useGetSongsByGenreQuery } from "../../redux/features/shazamApiSlice";
-import CardTemplate from "../CardTemplate";
 import Error from "../Error";
 import HeaderTemplate from "../HeaderTemplate";
+import SongCard from "../Layouts/Main/SongCard";
 import Loader from "../Loader";
-
-import songs from "/songsByGenre.json";
 
 function GenreDetails() {
   const { genre } = useParams();
+  const rndNo = Math.floor(Math.random() * 50 - 1);
   const { data, isFetching, isError } = useGetSongsByGenreQuery(genre);
 
-  console.log(genre);
+  const imgSrc = data?.[rndNo]?.images?.coverarthq;
   return (
     <>
-      <div className="genre-page hide-scroll">
+      <div className="genre-details hide-scroll">
         <HeaderTemplate title={genre} />
         <div className="cover-details">
           <div className="cover-img">
-            <img src="/bhuda.jpg" alt="" />
+            <img src={imgSrc} alt="" />
           </div>
           <div className="details"></div>
         </div>
 
-        <div className="artiste-songs">
-          <h3>Artists</h3>
-          <div className="releases">
-            <h3 className="tag">Releases</h3>
-          </div>
-          <div className="songs">
-            <h3 className="tag">Songs</h3>
-            {isFetching && <Loader title="Fetching" />}
-            {isError && <Error error="Something went wrong" />}
+        <div className="genre-songs">
+          <h3 className="tag">Songs</h3>
+          {isFetching && <Loader title="Fetching" />}
+          {isError && <Error error="Something went wrong" />}
+          {data?.length > 0 && (
             <ul className="tracks-content">
-              {songs.map((song, idx) => (
-                <CardTemplate song={song} idx={idx} />
+              {data?.map((song, idx) => (
+                <SongCard key={song?.key} song={song} idx={idx} data={data} />
               ))}
             </ul>
-          </div>
-        </div>
-
-        <div className="albums">
-          <h3>Albums</h3>
-          <div className="album-container">
-            <div className="album-card"></div>
-          </div>
+          )}
         </div>
       </div>
     </>

@@ -2,9 +2,7 @@ import Loader from "../../Loader";
 import Error from "../../Error";
 import SongCard from "./SongCard";
 
-// import test from "/musicdata.json";
-
-function Discover({ data, error, isFetching, isError }) {
+function Discover({ data, isFetching, isError }) {
   console.log(data);
 
   return (

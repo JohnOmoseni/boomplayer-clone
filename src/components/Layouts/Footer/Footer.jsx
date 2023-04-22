@@ -4,7 +4,7 @@ import NavLinks from "./NavLinks";
 import { useSelector } from "react-redux";
 import useAudioState from "../../../Context/AudioStateContext";
 
-function Footer() {
+function Footer({ footerRef }) {
   const { isPlaying } = useSelector(state => state.player);
   const { audioEl, duration } = useAudioState();
 
@@ -31,7 +31,7 @@ function Footer() {
   };
 
   return (
-    <div className="player-container">
+    <div className="player-container" ref={footerRef}>
       <div className="progress-bar" ref={progressBar}></div>
       <Player />
       <NavLinks />

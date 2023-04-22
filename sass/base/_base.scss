@@ -55,9 +55,11 @@ body {
 
     .error,
     .loading {
+      --height: var(--footer-height, 150px);
       position: relative;
+      width: 100%;
       display: grid;
-      min-height: calc(100vh - 160px);
+      min-height: calc(100vh - var(--height));
       place-items: center;
       text-align: center;
     }
@@ -73,7 +75,7 @@ body {
     -ms-overflow-style: none;
 
     &::-webkit-scrollbar {
-      width: 8px;
+      width: 6px;
       background: var(--bg-scrollbar);
       border-radius: 100vmax;
     }

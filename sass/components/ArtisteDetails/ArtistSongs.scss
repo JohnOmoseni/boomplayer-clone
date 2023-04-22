@@ -49,6 +49,7 @@
       .songs {
          @include list-row();
          height: 100%;
+         margin-bottom: var(--footer-height, 150px);
 
          .icon {
             padding-inline: $pad-300;

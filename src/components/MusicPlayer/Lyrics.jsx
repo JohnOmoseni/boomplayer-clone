@@ -14,7 +14,7 @@ function Lyrics({ activeTab, activeSong, id, songData, isLoading, isError }) {
         <Loader />
       ) : (
         <div className="content">
-          <h3 className="title">Song Lyrics: Adele</h3>
+          <h3 className="title">Song Lyrics: {songData?.subtitle ?? "Unknown"}</h3>
           <div className="lyrics">
             {lyrics && lyrics?.length > 0 ? (
               lyrics.map(line => <p>{line}</p>)

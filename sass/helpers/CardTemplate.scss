@@ -8,7 +8,8 @@
       box-shadow: $bs-250;
       overflow: hidden;
 
-      a {
+      a,
+      .content {
          width: 100%;
          display: grid;
          grid-template-rows: minmax($cover-img-size, auto) auto;
@@ -51,6 +52,7 @@
          .title {
             font-weight: $fw-semi-bold;
             text-shadow: $ts-200;
+            text-transform: capitalize;
          }
 
          .small-txt {

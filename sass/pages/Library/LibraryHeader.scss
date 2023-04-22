@@ -24,7 +24,6 @@
 
       .prev-page {
         @include close-icon();
-        left: 0.5em;
       }
 
       .library-title {
@@ -36,7 +35,7 @@
     @include tabs($justify: space-around);
 
     .tabs {
-      margin-block: $pad-200 1.2em;
+      margin-block: $pad-300 1.2em;
       padding-inline: $pad-300 ;
     }
 

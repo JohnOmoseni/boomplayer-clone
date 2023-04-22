@@ -3,7 +3,6 @@ import { useGetArtisteDetailsQuery } from "../../redux/features/shazamApiSlice";
 import { useNavigate } from "react-router-dom";
 import { MdArrowBackIos } from "react-icons/md";
 
-import artisteDetails from "/artistedetails.json";
 import Top from "./Top";
 import ArtisteSongs from "./ArtisteSongs";
 import Loader from "../Loader";
@@ -24,7 +23,7 @@ function ArtisteDetails() {
         {isError && <Error error="Something went wrong" />}
         {artistData && (
           <>
-            <Top artist={artisteDetails} artiste={artistData} />
+            <Top artist={artistData} />
             <ArtisteSongs artist={artistData} />
           </>
         )}
